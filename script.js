@@ -9,7 +9,7 @@ const exploreDetailsBreakPoint = 1000;
 const exploreDetailsHeightBreakPoint = 900;
 
 const tinyIslands = ["ABW","AIA","ALA","ASM","ATF","ATG","BES","BHR","BHS","BLM","BMU","BRB","BRN","BVT","CCK","COK","COM","CPV","CUW","CXR","CYM","DMA","FJI","FLK","FRO","FSM","GGY","GLP","GRD","GUM","HMD","IMN","IOT","JEY","JAM","KIR","KNA","LCA","MAF","MDV","MHL","MLT","MNP","MSR","MTQ","MUS","MYT","NFK","NIU","NRU","PCN","PLW","PYF","REU","SGS","SHN","SJM","SLB","SPM","STP","SXM","SYC","TCA","TKL","TLS","TON","TTO","TUV","VCT","VGB","VIR","VUT","WLF","WSM"];
-let extendedNames = {"ALAND":["ALA"],"SAMOA":["ASM"],"ANTIGUA":["ATG"],"BARBUDA":["ATG"],"BENGAL":["BGD"],"BIM":["BRB"],"GUDIJA":["BLR"],"DAHOMEY":["BEN"],"BONAIRE":["BES"],"EUSTATIUS":["BES"],"SABA":["BES"],"BOSNIA":["BIH"],"HERZEGOVINA":["BIH"],"BRASIL":["BRA"],"BRITISHINDIAN":["IOT"],"VIRGIN":["VGB","VIR"],"BRITISHVIRGIN":["VGB"],"UKVIRGIN":["VGB"],"USVIRGIN":["VIR"],"UNITEDSTATESVIRGIN":["VIR"],"DARUSSALAM":["BRN"],"BOURKINAFASSO":["BFA"],"KAMPUCHEA":["KHM"],"KHMER":["KHM"],"TCHAD":["TCD"],"CHILLI":["CHL"],"CHILI":["CHL"],"KEELING":["CCK"],"KOMORI":["COM"],"BRAZZAVILLE":["COG"],"DRC":["COD"],"KINSHASA":["COD"],"HRVATSKA":["HRV"],"CZECH":["CZE"],"BOHEMIA":["CZE"],"DANMARK":["DNK"],"DR":["DOM"],"DOMINICAN":["DOM"],"DOMINICANA":["DOM"],"REPUBLICADOMINICANA":["DOM"],"KIMI":["EGY"],"GUINEAEQUATORIAL":["GNQ"],"EESTI":["EST"],"ABYSSINIA":["ETH"],"MALVINAS":["FLK"],"SUOMI":["FIN"],"GUYANE":["GUF"],"POLYNESIA":["PYF"],"FRENCHSOUTHERN":["ATF"],"IVERIA":["GEO"],"DEUTSCHLAND":["DEU"],"GDR":["DEU"],"BRD":["DEU"],"GOLDCOAST":["GHA"],"HELLADA":["GRC"],"HELLAS":["GRC"],"BISSAU":["GIN"],"HEARD":["HMD"],"MCDONALD":["HMD"],"VATICAN":["VAT"],"BHARAT":["IND"],"NUSANTARA":["IDN"],"DUTCHEASTINDIES":["IDN"],"INDUNESIA":["IDN"],"IVORYCOAST":["CIV"],"EIRE":["IRL"],"ZION":["ISR"],"ITALIANA":["ITA"],"ITALIA":["ITA"],"XAMAYCA":["JAM"],"NIPPON":["JPN"],"CHANNEL":["JEY","GGY"],"KYRGYZ":["KGZ"],"LAO":["LAO"],"LATVIJA":["LVA"],"MACEDONIA":["MKD"],"MOLDAVIA":["MDA"],"BURMA":["MMR"],"MARIANA":["MNP"],"NORGE":["NOR"],"FILIPINAS":["PHL"],"POLSKA":["POL"],"RF":["RUS"],"SOVIETUNION":["RUS"],"RUSSIANFEDERATION":["RUS"],"RUANDA":["RWA"],"HELENA":["SHN"],"ASCENSION":["SHN"],"TRISTANDACUNHA":["SHN"],"KITTS":["KNA"],"NEVIS":["KNA"],"MARTIN":["MAF","SXM"],"PIERRE":["SPM"],"MIQUELON":["SPM"],"VINCENT":["VCT"],"GRENADINES":["VCT"],"SAOTOME":["STP"],"PRINCIPE":["STP"],"SOUTHGEORGIA":["SGS"],"SANDWHICH":["SGS"],"HISPANIA":["ESP"],"ESPANA":["ESP"],"EASTTIMOR":["TLS"],"TIMOR":["TLS"],"TRINIDAD":["TTO"],"TOBAGO":["TTO"],"CAICOS":["TCA"],"UAE":["ARE"],"UK":["GBR"],"BRITAIN":["GBR"],"GREATBRITAIN":["GBR"],"USA":["USA"],"AMERICA":["USA"],"WALLIS":["WLF"],"FUTUNA":["WLF"],"SAHRAWI":["ESH"],"MOROCCO":["ESH"],"CABOVERDE":["CPV"],"MACAU":["MAC"]};
+let extendedNames = {"ALAND":["ALA"],"SAMOA":["ASM"],"ANTIGUA":["ATG"],"BARBUDA":["ATG"],"BENGAL":["BGD"],"BIM":["BRB"],"GUDIJA":["BLR"],"DAHOMEY":["BEN"],"BONAIRE":["BES"],"EUSTATIUS":["BES"],"SABA":["BES"],"BOSNIA":["BIH"],"HERZEGOVINA":["BIH"],"BRASIL":["BRA"],"BRITISHINDIAN":["IOT"],"VIRGIN":["VGB","VIR"],"BRITISHVIRGIN":["VGB"],"UKVIRGIN":["VGB"],"USVIRGIN":["VIR"],"UNITEDSTATESVIRGIN":["VIR"],"DARUSSALAM":["BRN"],"BOURKINAFASSO":["BFA"],"KAMPUCHEA":["KHM"],"KHMER":["KHM"],"TCHAD":["TCD"],"CHILLI":["CHL"],"CHILI":["CHL"],"KEELING":["CCK"],"KOMORI":["COM"],"BRAZZAVILLE":["COG"],"DRC":["COD"],"KINSHASA":["COD"],"HRVATSKA":["HRV"],"CZECH":["CZE"],"BOHEMIA":["CZE"],"DANMARK":["DNK"],"DR":["DOM"],"DOMINICAN":["DOM"],"DOMINICANA":["DOM"],"REPUBLICADOMINICANA":["DOM"],"KIMI":["EGY"],"GUINEAEQUATORIAL":["GNQ"],"EESTI":["EST"],"ABYSSINIA":["ETH"],"MALVINAS":["FLK"],"SUOMI":["FIN"],"GUYANE":["GUF"],"Полинезия":["PYF"],"FRENCHSOUTHERN":["ATF"],"IVERIA":["GEO"],"DEUTSCHLAND":["DEU"],"GDR":["DEU"],"BRD":["DEU"],"GOLDCOAST":["GHA"],"HELLADA":["GRC"],"HELLAS":["GRC"],"BISSAU":["GIN"],"HEARD":["HMD"],"MCDONALD":["HMD"],"VATICAN":["VAT"],"BHARAT":["IND"],"NUSANTARA":["IDN"],"DUTCHEASTINDIES":["IDN"],"INDUNESIA":["IDN"],"IVORYCOAST":["CIV"],"EIRE":["IRL"],"ZION":["ISR"],"ITALIANA":["ITA"],"ITALIA":["ITA"],"XAMAYCA":["JAM"],"NIPPON":["JPN"],"CHANNEL":["JEY","GGY"],"KYRGYZ":["KGZ"],"LAO":["LAO"],"LATVIJA":["LVA"],"MACEDONIA":["MKD"],"MOLDAVIA":["MDA"],"BURMA":["MMR"],"MARIANA":["MNP"],"NORGE":["NOR"],"FILIPINAS":["PHL"],"POLSKA":["POL"],"RF":["RUS"],"SOVIETUNION":["RUS"],"RUSSIANFEDERATION":["RUS"],"RUANDA":["RWA"],"HELENA":["SHN"],"ASCENSION":["SHN"],"TRISTANDACUNHA":["SHN"],"KITTS":["KNA"],"NEVIS":["KNA"],"MARTIN":["MAF","SXM"],"PIERRE":["SPM"],"MIQUELON":["SPM"],"VINCENT":["VCT"],"GRENADINES":["VCT"],"SAOTOME":["STP"],"PRINCIPE":["STP"],"SOUTHGEORGIA":["SGS"],"SANDWHICH":["SGS"],"HISPANIA":["ESP"],"ESPANA":["ESP"],"EASTTIMOR":["TLS"],"TIMOR":["TLS"],"TRINIDAD":["TTO"],"TOBAGO":["TTO"],"CAICOS":["TCA"],"UAE":["ARE"],"UK":["GBR"],"BRITAIN":["GBR"],"GREATBRITAIN":["GBR"],"USA":["USA"],"AMERICA":["USA"],"WALLIS":["WLF"],"FUTUNA":["WLF"],"SAHRAWI":["ESH"],"MOROCCO":["ESH"],"CABOVERDE":["CPV"],"MACAU":["MAC"]};
 let extendedCapitals = {};
 
 const defaultGame = {
@@ -167,7 +167,7 @@ window.addEventListener('load', function() {
             game = g;
         }
         else {
-            alert("Invalid share url");
+            alert("Неправильная ссылка");
         }
         this.history.replaceState(null, null, window.location.href.replace(window.location.search, '').replace(/\/*$/, '/'));
     }
@@ -446,14 +446,14 @@ function setupGameObject(replay = false) {
     if(game.countryPool.length === 0) {
         endGame('newGame');
         document.getElementById('newGame').scrollTop = 0
-        document.getElementById('c').textContent = 'No countries match your game settings, please re-configure'
+        document.getElementById('c').textContent = 'Пожалуйста, выберите страны'
         document.getElementById('newGameErr').style.display = 'block';
         return;
     }
     else if(game.timer && game.modeData.maxTime && game.modeData.maxTime <= 0) {
         endGame('newGame');
         document.getElementById('newGame').scrollTop = 0
-        document.getElementById('c').textContent = 'The timer cannot be 0 or negative';
+        document.getElementById('c').textContent = 'Укажите правильное время для таймера';
         document.getElementById('newGameErr').style.display = 'block';
         return;
     }
@@ -805,13 +805,13 @@ function setSummaryData() {
         }
     }
     if(game.ended) {
-        document.querySelector('#inGameMenuBtn_new > div').textContent = 'Replay';
+        document.querySelector('#inGameMenuBtn_new > div').textContent = 'Начать заново';
         document.getElementById('inGameMenuBtn_resume').style.display = 'none';
         document.getElementById('inGameMenuBtn_back').style.display = 'none';
         document.getElementById('shareBtn').style.display = 'inline-block';
     }
     else {
-        document.querySelector('#inGameMenuBtn_new > div').textContent = 'Restart';
+        document.querySelector('#inGameMenuBtn_new > div').textContent = 'Начать заново';
         document.getElementById('inGameMenuBtn_resume').style.display = 'block';  
         document.getElementById('inGameMenuBtn_back').style.display = 'block';
         document.getElementById('shareBtn').style.display = 'none';
@@ -903,7 +903,7 @@ function loadMap(options = {}, countryOptions = {}, baseMap = true) {
     
     //Set BASEMAP
     if(baseMap) {
-        var bm = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'}).addTo(map);
+        var bm = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'}).addTo(map);
     }
 
     // Lazy load geoJSON
@@ -1133,11 +1133,11 @@ function loadExploreMap(baseMap = true) {
     
     //Set BASEMAPs
     if(baseMap) {
-        var base = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+        var base = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
         var pane = exploreMap.createPane('labels');
         pane.style.zIndex = 650;
         pane.style.pointerEvents = 'none';
-        var labels = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/dark_only_labels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', subdomains: 'abcd', maxZoom: 20, pane: 'labels', noWrap: true,   bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+        var labels = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/light_only_labels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', subdomains: 'abcd', maxZoom: 20, pane: 'labels', noWrap: true,   bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
     }
 
     if(!geoJSON) {
@@ -1212,18 +1212,20 @@ function setExploreDetails(id) {
     document.getElementById('exploreFacts').style.display = 'block';
     document.getElementById('exploreFlag').src = 'res/flags/' + id + '.svg';
     document.getElementById('exploreCountryName').textContent = countryData[id].name;
+    document.getElementById('exploreCountryNameRu').textContent = countryData[id].nameRu;
     document.getElementById('exploreRecognized').style.display =  'block';
     document.getElementById('exploreDetailSovereigntyWrapper').style.display = 'none';
     document.getElementById('exploreCountryCodes').innerHTML = '<span title="Alpha-3 Code">' + id + '</span> · <span title="Alpha-2 Code">' + countryData[id].a2 + '</span>';
-    document.getElementById('exploreDetailCapital').textContent = countryData[id].capital || '-';
+    document.getElementById('exploreDetailCapital').textContent = countryData[id].capitalBothLangs || '-';
     document.getElementById('exploreDetailRegion').innerHTML = countryData[id].subregion || '-';
     document.getElementById('exploreDetailPopulation').textContent = (countryData[id].population || '-').toLocaleString();
     document.getElementById('exploreDetailArea').innerHTML = (countryData[id].area || '-').toLocaleString();
     document.getElementById('exploreDetailCenter').innerHTML = countryData[id].center ? (countryData[id].center[1].toFixed(2) || '-') + '&#176;, ' + (countryData[id].center[1].toFixed(2) || '-') + '&#176;' : '-';
     
     if ('speechSynthesis' in window) {
-        document.getElementById("exploreCountryCodes").innerHTML += ' · <svg onclick="speak(\'' + countryData[id].name + '\');" class="listen" title="Pronounce country name" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.36 19.36a1 1 0 0 1-.7-.29 1 1 0 0 1 0-1.41 8 8 0 0 0 0-11.32 1 1 0 0 1 1.41-1.41 10 10 0 0 1 0 14.14 1 1 0 0 1-.71.29Z" /><path d="M15.54 16.54a1 1 0 0 1-.71-.3 1 1 0 0 1 0-1.41 4 4 0 0 0 0-5.66 1 1 0 0 1 1.41-1.41 6 6 0 0 1 0 8.48 1 1 0 0 1-.7.3ZM11.38 4.08a1 1 0 0 0-1.09.21L6.59 8H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.59l3.7 3.71A1 1 0 0 0 11 20a.84.84 0 0 0 .38-.08A1 1 0 0 0 12 19V5a1 1 0 0 0-.62-.92Z"/></svg>';
-        document.getElementById('exploreDetailCapital').innerHTML += ' <svg onclick="speak(\'' + countryData[id].capital + '\');" class="listen" title="Pronounce capital" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.36 19.36a1 1 0 0 1-.7-.29 1 1 0 0 1 0-1.41 8 8 0 0 0 0-11.32 1 1 0 0 1 1.41-1.41 10 10 0 0 1 0 14.14 1 1 0 0 1-.71.29Z" /><path d="M15.54 16.54a1 1 0 0 1-.71-.3 1 1 0 0 1 0-1.41 4 4 0 0 0 0-5.66 1 1 0 0 1 1.41-1.41 6 6 0 0 1 0 8.48 1 1 0 0 1-.7.3ZM11.38 4.08a1 1 0 0 0-1.09.21L6.59 8H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.59l3.7 3.71A1 1 0 0 0 11 20a.84.84 0 0 0 .38-.08A1 1 0 0 0 12 19V5a1 1 0 0 0-.62-.92Z"/></svg>';
+        document.getElementById("exploreCountryCodes").innerHTML += ' · <svg onclick="speak(\'' + countryData[id].name + '\');" class="listen" title="Произнести название страны" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.36 19.36a1 1 0 0 1-.7-.29 1 1 0 0 1 0-1.41 8 8 0 0 0 0-11.32 1 1 0 0 1 1.41-1.41 10 10 0 0 1 0 14.14 1 1 0 0 1-.71.29Z" /><path d="M15.54 16.54a1 1 0 0 1-.71-.3 1 1 0 0 1 0-1.41 4 4 0 0 0 0-5.66 1 1 0 0 1 1.41-1.41 6 6 0 0 1 0 8.48 1 1 0 0 1-.7.3ZM11.38 4.08a1 1 0 0 0-1.09.21L6.59 8H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.59l3.7 3.71A1 1 0 0 0 11 20a.84.84 0 0 0 .38-.08A1 1 0 0 0 12 19V5a1 1 0 0 0-.62-.92Z"/></svg>';
+        document.getElementById('exploreDetailCapital').innerHTML += ' <svg onclick="speak(\'' + countryData[id].capitalBothLangs + '\');" class="listen" title="Произнести название столицы" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.36 19.36a1 1 0 0 1-.7-.29 1 1 0 0 1 0-1.41 8 8 0 0 0 0-11.32 1 1 0 0 1 1.41-1.41 10 10 0 0 1 0 14.14 1 1 0 0 1-.71.29Z" /><path d="M15.54 16.54a1 1 0 0 1-.71-.3 1 1 0 0 1 0-1.41 4 4 0 0 0 0-5.66 1 1 0 0 1 1.41-1.41 6 6 0 0 1 0 8.48 1 1 0 0 1-.7.3ZM11.38 4.08a1 1 0 0 0-1.09.21L6.59 8H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.59l3.7 3.71A1 1 0 0 0 11 20a.84.84 0 0 0 .38-.08A1 1 0 0 0 12 19V5a1 1 0 0 0-.62-.92Z"/></svg>';
+        document.getElementById('exploreDetailRegion').innerHTML += ' <svg onclick="speak(\'' + countryData[id].subregion + '\');" class="listen" title="Произнести название региона" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.36 19.36a1 1 0 0 1-.7-.29 1 1 0 0 1 0-1.41 8 8 0 0 0 0-11.32 1 1 0 0 1 1.41-1.41 10 10 0 0 1 0 14.14 1 1 0 0 1-.71.29Z" /><path d="M15.54 16.54a1 1 0 0 1-.71-.3 1 1 0 0 1 0-1.41 4 4 0 0 0 0-5.66 1 1 0 0 1 1.41-1.41 6 6 0 0 1 0 8.48 1 1 0 0 1-.7.3ZM11.38 4.08a1 1 0 0 0-1.09.21L6.59 8H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.59l3.7 3.71A1 1 0 0 0 11 20a.84.84 0 0 0 .38-.08A1 1 0 0 0 12 19V5a1 1 0 0 0-.62-.92Z"/></svg>';
     }
 
     if(countryData[id].sovereignty !== undefined) {
@@ -1274,7 +1276,7 @@ function setExploreDetails(id) {
     // languages
     var langHTML = '';
     if(countryData[id].languages.length == 0) {
-        langHTML = '<span class="noData">No data</span>';
+        langHTML = '<span class="noData">Нет информации</span>';
     }
     else {
         langHTML = '<ul>';
@@ -1294,12 +1296,12 @@ function setTopCities(id) {
     var citiesHTML = '';
     var a2 = countryData[id].a2.toLowerCase();
     if(!(a2 in topCities) || topCities[a2].length === 0) {
-        citiesHTML = '<span class="noData">No data</span>';
+        citiesHTML = '<span class="noData">Нет информации</span>';
     }
     else {
-        citiesHTML = '<table class="subtleTable"><thead><tr><th>#</th><th>City</th><th>Population</th></tr></thead><tbody>';
+        citiesHTML = '<table class="subtleTable"><thead><tr><th>#</th><th>Город</th><th>Население</th></tr></thead><tbody>';
         topCities[a2].forEach(function(city, x) {
-            citiesHTML += '<tr><td>' + (x+1) + '</td><td>' + city[0] + '</td><td>' + (city[1] ? city[1].toLocaleString() : 'Unknown') + '</td></tr>';
+            citiesHTML += '<tr><td>' + (x+1) + '</td><td>' + city[0] + '</td><td>' + (city[1] ? city[1].toLocaleString() : 'Неизвестно') + '</td></tr>';
         });
         citiesHTML += '</tbody></table>';
     }
@@ -1309,10 +1311,10 @@ function setExploreAliases(id) {
     var aliasesHTML = '';
     var names = id in aliases ? aliases[id].slice() : [];
     if(countryData[id].nativeName && countryData[id].nativeName !== countryData[id].name) {
-        names.push([countryData[id].nativeName, 'native name']);
+        names.push([countryData[id].nativeName, 'имя на языке страны']);
     }
     if(names.length == 0) {
-        aliasesHTML = '<span class="noData">No alternative names</span>';
+        aliasesHTML = '<span class="noData">Нет других названий</span>';
     }
     else {
         aliasesHTML = '<ul>';
@@ -1506,7 +1508,7 @@ function normalizeNameExtended(name) {
     .replace(/\(.*\)/, '') // replace anything in parenthesses
     .replace(/^.*\bof\b/gi, '') // replace all words up to "of" including of
     .replace(/\b(the|saint|sint|san|republic)\b/gi, '') // replace some specific words
-    .replace(/[^a-z]/gi, '') // delete everything except a-z (delete spaces)
+    // .replace(/[^a-z]/gi, '') // delete everything except a-z (delete spaces)
     .toUpperCase(); 
 }
 function normalizeName(name) {
@@ -1514,15 +1516,16 @@ function normalizeName(name) {
     .trim()
     .replace(/\s/gi, ' ')
     .replace(/\-/gi, ' ')
-    .replace(/[^a-z ]/gi, '') // delete everything except a-z and spaces
+    // .replace(/[^a-z ]/gi, '') // delete everything except a-z and spaces
     .toUpperCase(); 
 }
 function speak(text) {
     if (!('speechSynthesis' in window)) {
-       alert('Your browser does not support speech synthesis');
+       alert('Ваше устройство не поддерживает синтез речи на японском языке');
        return;
     }
     var msg = new SpeechSynthesisUtterance(text);
+	msg.lang = 'ja-JP';
     window.speechSynthesis.speak(msg);
 }
 function shareScore(event) {

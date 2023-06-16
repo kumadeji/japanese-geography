@@ -4,23 +4,30 @@
 }
 
 :root {
-    --background: #0A0A0A;
-    --background_darker: black;
+    /* --background: #0A0A0A; */
+	--background: #E5E5E5;
+    /* --background_darker: black; */
+	--background_darker: white;
     --highlight: rgba(255, 255, 255, .05);
     --highlight_bright: rgba(255, 255, 255, .1);
     --selected: rgb(170, 217, 76, .3);
     --border: #3F4145;
     --border_light: #5E6166;
-    --text: #FEFEFE;
-    --dull: #999999;
-    --text_bright: #FFFFFF;
-    --accent: #AAD94C;
-    --accent2: #D6A76B;
+	/* --text: #FEFEFE; */
+    --text: #000000;
+    /* --dull: #999999; */
+	--dull: #414141;
+    /* --text_bright: #FFFFFF; */
+	--text_bright: #000000;
+    /* --accent: #AAD94C; */
+	--accent: #7BBA00;
+	/* --accent2: #D6A76B; */
+    --accent2: #000000;
     --accent3: #3498DB;
     --error: #D95757;
     --warning: #EDBC5A;
     --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    --monospace: "Fira Code", Inconsolata, "SFMono-Regular", "Consolas", "Menlo", monospace;
+    --monospace: "Fira Code", Inconsolata, "SFMono-Regular", "Consolas", "Menlo", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", monospace;
 }
 
 * {
@@ -46,6 +53,24 @@ body {
     color: var(--text);
     font-family: var(--font);
     letter-spacing: 1px;
+}
+
+body:after{
+  content: "БЕТА";
+  position: fixed;
+  width: 80px;
+  height: 25px;
+  background: #ee8e4a87;
+  top: 7px;
+  left: -20px;
+  text-align: center;
+  font-size: 13px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  line-height: 27px;
+  transform:rotate(-45deg);
 }
 
 .screen {
@@ -155,8 +180,8 @@ p a:hover:before {width: 100%;}
 
 
 #logo {
-    height: 128px;
-    width: 128px;
+    height: 172px;
+    width: 172px;
     position: relative;
     display: inline-block;
     margin: 10px 0;
@@ -212,6 +237,7 @@ p a:hover:before {width: 100%;}
     -o-user-select: none;
     -ms-user-select: none;
     user-select: none;
+	font-weight: bold;
 }
 .titlebtn > div {
     position: relative;
@@ -353,6 +379,7 @@ input:checked + .radioLabel {
 }
 .inputWrap input[type="checkbox"]:checked + label {
     color: var(--accent);
+	font-weight: 600;
 }
 .inputWrap input[type="checkbox"]:disabled + label {
     color: var(--dull);
@@ -626,7 +653,6 @@ input:checked + .radioLabel {
     margin: 0;
     border-top: 1px solid var(--border);
     border-radius: 0;
-    text-transform: capitalize;
     -webkit-appearance: none;
     appearance: none;
     outline: none;
@@ -699,6 +725,7 @@ input:checked + .radioLabel {
 }
 .mc_a:hover {
     color: var(--background_darker);
+	font-weight: bold;
 }
 .mc_a:hover:before {
     opacity: 1;
@@ -1022,6 +1049,16 @@ input:checked + .radioLabel {
     font-size: 2em;
     font-weight: bold;
     display: inline-block;
+}
+#exploreCountryNameRu {
+    font-size: 1em;
+    font-weight: bold;
+    display: flex;
+    color: var(--dull);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    align-items: center;
 }
 #exploreCountrySubtitle {
     color: var(--dull);
