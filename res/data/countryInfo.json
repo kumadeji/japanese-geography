@@ -12,9 +12,7 @@
       ],
       "languages":[
          "Дари (ダリー語)",
-         "Пушту (パシュトー語)",
-         "Узбекский (ウズベク語)",
-         "Туркменский (トルクメン語)"
+         "Пушту (パシュトー語)"
       ],
       "center":[
          33,
@@ -22,7 +20,7 @@
       ],
       "name":"アフガニスタン",
       "nameRu":"Афганистан",
-      "nativeName":"افغانستان",
+      "nativeName":"",
       "population":27657145,
       "region":"Asia",
       "subregion":"Южная Азия (南アジア)",
@@ -36,6 +34,7 @@
          
       ],
       "languages":[
+         "Финский (フィンランド語)",
          "Шведский (スウェーデン語)"
       ],
       "center":[
@@ -43,8 +42,8 @@
          19.9
       ],
       "name":"オーランド諸島",
-      "nameRu":"Аландские острова",
-      "nativeName":"Åland",
+      "nameRu":"Аланды",
+      "nativeName":"",
       "population":28875,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -70,7 +69,7 @@
       ],
       "name":"アルバニア",
       "nameRu":"Албания",
-      "nativeName":"Shqipëria",
+      "nativeName":"Shqipëria / Shqipëri",
       "population":2886026,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -98,7 +97,7 @@
       ],
       "name":"アルジェリア",
       "nameRu":"Алжир",
-      "nativeName":"الجزائر",
+      "nativeName":"",
       "population":40400000,
       "region":"Africa",
       "subregion":"Северная Африка (北アフリカ)",
@@ -216,7 +215,7 @@
       ],
       "name":"南極大陸",
       "nameRu":"Антарктида",
-      "nativeName":"Antarctica",
+      "nativeName":"",
       "population":1000,
       "region":"Polar",
       "subregion":"",
@@ -307,7 +306,7 @@
       ],
       "languages":[
          "Нидерландский / голландский (オランダ語)",
-         "Восточный панджаби (東パンジャーブ語)"
+         "Папьяменто (パピアメント語)"
       ],
       "center":[
          12.5,
@@ -536,7 +535,7 @@
       ],
       "name":"ベルギー",
       "nameRu":"Бельгия",
-      "nativeName":"België",
+      "nativeName":"",
       "population":11319511,
       "region":"Europe",
       "subregion":"Западная Европа (西ヨーロッパ)",
@@ -631,7 +630,7 @@
       ],
       "name":"ブータン",
       "nameRu":"Бутан",
-      "nativeName":"ʼbrug-yul",
+      "nativeName":"འབྲུག་ཡུལ་",
       "population":775620,
       "region":"Asia",
       "subregion":"Южная Азия (南アジア)",
@@ -651,7 +650,8 @@
       "languages":[
          "Испанский (スペイン語)",
          "Аймара (アイマラ語)",
-         "Кечуанский / кечуа (ケチュア語)"
+         "Кечуанский / кечуа (ケチュア語)",
+         "Гуарани (グアラニー語)"
       ],
       "center":[
          -17,
@@ -659,7 +659,7 @@
       ],
       "name":"ボリビア",
       "nameRu":"Боливия",
-      "nativeName":"Bolivia",
+      "nativeName":"",
       "population":10985059,
       "region":"Americas",
       "subregion":"Южная Америка (南アメリカ)",
@@ -681,7 +681,7 @@
       ],
       "name":"オランダ領カリブ",
       "nameRu":"Карибские Нидерланды",
-      "nativeName":"Bonaire",
+      "nativeName":"Caribisch Nederland",
       "population":17408,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -708,7 +708,7 @@
       ],
       "name":"ボスニア・ヘルツェゴビナ",
       "nameRu":"Босния и Герцеговина",
-      "nativeName":"Bosna i Hercegovina",
+      "nativeName":"Bosna i Hercegovina / Босна и Херцеговина",
       "population":3531159,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -809,8 +809,8 @@
          71.5
       ],
       "name":"イギリス領インド洋地域",
-      "nameRu":"???",
-      "nativeName":"Британская территория в Индийском океане",
+      "nameRu":"Британская территория в Индийском океане",
+      "nativeName":"British Indian Ocean Territory",
       "population":3000,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -924,8 +924,7 @@
          "TGO"
       ],
       "languages":[
-         "Французский (フランス語)",
-         "Фула (フラニ語)"
+         "Французский (フランス語)"
       ],
       "center":[
          13,
@@ -982,7 +981,7 @@
       ],
       "name":"カンボジア",
       "nameRu":"Камбоджа",
-      "nativeName":"Kâmpŭchéa",
+      "nativeName":"កម្ពុជា",
       "population":15626444,
       "region":"Asia",
       "subregion":"Юго-Восточная Азия (東南アジア)",
@@ -1032,7 +1031,7 @@
          -95
       ],
       "name":"カナダ",
-      "nameRu":"???",
+      "nameRu":"Канада",
       "nativeName":"Canada",
       "population":36155487,
       "region":"Americas",
@@ -1047,7 +1046,8 @@
          
       ],
       "languages":[
-         "Португальский (ポルトガル語)"
+         "Португальский (ポルトガル語)",
+         "Кабувердьяну (カーボベルデ・クレオール語)"
       ],
       "center":[
          16,
@@ -1055,7 +1055,7 @@
       ],
       "name":"カーボベルデ",
       "nameRu":"Кабо-Верде",
-      "nativeName":"Cape Verde",
+      "nativeName":"",
       "population":531239,
       "region":"Africa",
       "subregion":"Западная Африка (西アフリカ)",
@@ -1106,7 +1106,7 @@
       ],
       "name":"中央アフリカ",
       "nameRu":"Центральная Африка",
-      "nativeName":"Ködörösêse tî Bêafrîka",
+      "nativeName":"",
       "population":4998000,
       "region":"Africa",
       "subregion":"Центральная Африка (中部アフリカ)",
@@ -1125,8 +1125,8 @@
          "SSD"
       ],
       "languages":[
-         "Французский (フランス語)",
-         "Арабский (アラビア語)"
+         "Арабский (アラビア語)",
+         "Французский (フランス語)"
       ],
       "center":[
          15,
@@ -1134,7 +1134,7 @@
       ],
       "name":"チャド",
       "nameRu":"Чад",
-      "nativeName":"Tchad",
+      "nativeName":"",
       "population":14497000,
       "region":"Africa",
       "subregion":"Центральная Африка (中部アフリカ)",
@@ -1194,12 +1194,12 @@
       ],
       "name":"中国",
       "nameRu":"Китай",
-      "nativeName":"中国",
+      "nativeName":"",
       "population":1377422166,
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
       "capital":"北京",
-      "capitalBothLangs":"Пекин (北京)"
+      "capitalBothLangs":"Пекин (北京／ペキン)"
    },
    "CXR":{
       "a2":"CX",
@@ -1280,6 +1280,7 @@
          
       ],
       "languages":[
+         "Коморский (コモロ語)",
          "Арабский (アラビア語)",
          "Французский (フランス語)"
       ],
@@ -1289,7 +1290,7 @@
       ],
       "name":"コモロ",
       "nameRu":"Коморы",
-      "nativeName":"Komori",
+      "nativeName":"",
       "population":806153,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -1308,6 +1309,7 @@
       ],
       "languages":[
          "Французский (フランス語)",
+         "Конго (コンゴ語)",
          "Лингала (リンガラ語)"
       ],
       "center":[
@@ -1316,7 +1318,7 @@
       ],
       "name":"コンゴ共和国",
       "nameRu":"Республика Конго",
-      "nativeName":"République du Congo",
+      "nativeName":"",
       "population":4741000,
       "region":"Africa",
       "subregion":"Центральная Африка (中部アフリカ)",
@@ -1339,10 +1341,10 @@
       ],
       "languages":[
          "Французский (フランス語)",
+         "Китуба (キトゥバ語)",
          "Лингала (リンガラ語)",
-         "Конго (コンゴ語)",
          "Суахили (スワヒリ語)",
-         "Луба-катанга (ルバ・カタンガ語)"
+         "Луба (ルバ語)"
       ],
       "center":[
          0,
@@ -1350,7 +1352,7 @@
       ],
       "name":"コンゴ民主共和国",
       "nameRu":"Демократическая Республика Конго",
-      "nativeName":"République démocratique du Congo",
+      "nativeName":"",
       "population":85026000,
       "region":"Africa",
       "subregion":"Центральная Африка (中部アフリカ)",
@@ -1459,8 +1461,7 @@
       ],
       "languages":[
          "Нидерландский / голландский (オランダ語)",
-         "Восточный панджаби (東パンジャーブ語)",
-         "Английский (英語)"
+         "Папьяменто (パピアメント語)"
       ],
       "center":[
          12.116667,
@@ -1468,7 +1469,7 @@
       ],
       "name":"キュラソー",
       "nameRu":"Кюрасао",
-      "nativeName":"Curaçao",
+      "nativeName":"",
       "population":154843,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -1484,8 +1485,7 @@
       ],
       "languages":[
          "Греческий (ギリシア語)",
-         "Турецкий (トルコ語)",
-         "Армянский (アルメニア語)"
+         "Турецкий (トルコ語)"
       ],
       "center":[
          35,
@@ -1493,7 +1493,7 @@
       ],
       "name":"キプロス",
       "nameRu":"Кипр",
-      "nativeName":"Κύπρος",
+      "nativeName":"",
       "population":847000,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -1510,8 +1510,7 @@
          "SVK"
       ],
       "languages":[
-         "Чешский (チェコ語)",
-         "Словацкий (スロバキア語)"
+         "Чешский (チェコ語)"
       ],
       "center":[
          49.75,
@@ -1519,7 +1518,7 @@
       ],
       "name":"チェコ",
       "nameRu":"Чехия",
-      "nativeName":"Česká republika",
+      "nativeName":"Česko",
       "population":10558524,
       "region":"Europe",
       "subregion":"Восточная Европа (東ヨーロッパ)",
@@ -1557,8 +1556,8 @@
          "SOM"
       ],
       "languages":[
-         "Французский (フランス語)",
-         "Арабский (アラビア語)"
+         "Арабский (アラビア語)",
+         "Французский (フランス語)"
       ],
       "center":[
          11.5,
@@ -1566,7 +1565,7 @@
       ],
       "name":"ジブチ",
       "nameRu":"Джибути",
-      "nativeName":"Djibouti",
+      "nativeName":"",
       "population":900000,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -1586,7 +1585,7 @@
          15.41666666,
          -61.33333333
       ],
-      "name":"ドミニカ",
+      "name":"ドミニカ国",
       "nameRu":"Доминика",
       "nativeName":"Dominica",
       "population":71293,
@@ -1609,8 +1608,8 @@
          -70.66666666
       ],
       "name":"ドミニカ共和国",
-      "nameRu":"Доминиканская Республика",
-      "nativeName":"República Dominicana",
+      "nameRu":"Доминикана",
+      "nativeName":"Dominicana",
       "population":10075045,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -1696,7 +1695,8 @@
       ],
       "languages":[
          "Испанский (スペイン語)",
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Португальский (ポルトガル語)"
       ],
       "center":[
          2,
@@ -1704,7 +1704,7 @@
       ],
       "name":"赤道ギニア",
       "nameRu":"Экваториальная Гвинея",
-      "nativeName":"Guinea Ecuatorial",
+      "nativeName":"",
       "population":1222442,
       "region":"Africa",
       "subregion":"Центральная Африка (中部アフリカ)",
@@ -1772,7 +1772,9 @@
          "SDN"
       ],
       "languages":[
-         "Амхарский (アムハラ語)"
+         "Амхарский (アムハラ語)",
+         "Оромо (オロモ語)",
+         "Тигринья (ティグリニャ語)"
       ],
       "center":[
          8,
@@ -1780,7 +1782,7 @@
       ],
       "name":"エチオピア",
       "nameRu":"Эфиопия",
-      "nativeName":"ኢትዮጵያ",
+      "nativeName":"",
       "population":92206005,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -1817,15 +1819,16 @@
          
       ],
       "languages":[
-         "Фарерский (フェロー語)"
+         "Фарерский (フェロー語)",
+         "Датский (デンマーク語)"
       ],
       "center":[
          62,
          -7
       ],
       "name":"フェロー諸島",
-      "nameRu":"Фарерские острова",
-      "nativeName":"Føroyar",
+      "nameRu":"Фареры",
+      "nativeName":"",
       "population":49376,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -1842,8 +1845,7 @@
       "languages":[
          "Английский (英語)",
          "Фиджийский (フィジー語)",
-         "Хинди (ヒンディー語)",
-         "Урду (ウルドゥー語)"
+         "Фиджийский хинди (フィジー・ヒンディー語)"
       ],
       "center":[
          -18,
@@ -1851,7 +1853,7 @@
       ],
       "name":"フィジー",
       "nameRu":"Фиджи",
-      "nativeName":"Fiji",
+      "nativeName":"",
       "population":867000,
       "region":"Oceania",
       "subregion":"Меланезия (メラネシア)",
@@ -1876,7 +1878,7 @@
       ],
       "name":"フィンランド",
       "nameRu":"Финляндия",
-      "nativeName":"Suomi",
+      "nativeName":"",
       "population":5491817,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -1920,7 +1922,8 @@
          "SUR"
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Гвианский креольский (フランス領ギアナ・クレオール語)"
       ],
       "center":[
          4,
@@ -1928,7 +1931,7 @@
       ],
       "name":"フランス領ギアナ",
       "nameRu":"Французская Гвиана",
-      "nativeName":"Guyane française",
+      "nativeName":"",
       "population":254541,
       "region":"Americas",
       "subregion":"Южная Америка (南アメリカ)",
@@ -1943,15 +1946,16 @@
          
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Таитянский (タヒチ語)"
       ],
       "center":[
          -15,
          -140
       ],
       "name":"フランス領ポリネシア",
-      "nameRu":"???",
-      "nativeName":"Французская Полинезия",
+      "nameRu":"Французская Полинезия",
+      "nativeName":"",
       "population":271800,
       "region":"Oceania",
       "subregion":"Полинезия (ポリネシア)",
@@ -2122,7 +2126,7 @@
       ],
       "name":"ジブラルタル",
       "nameRu":"Гибралтар",
-      "nativeName":"Gibraltar",
+      "nativeName":"",
       "population":33140,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -2162,7 +2166,8 @@
          
       ],
       "languages":[
-         "Гренландский (グリーンランド語)"
+         "Гренландский (グリーンランド語)",
+         "Датский (デンマーク語)"
       ],
       "center":[
          72,
@@ -2170,7 +2175,7 @@
       ],
       "name":"グリーンランド",
       "nameRu":"Гренландия",
-      "nativeName":"Kalaallit Nunaat",
+      "nativeName":"",
       "population":55847,
       "region":"Americas",
       "subregion":"Северная Америка (北アメリカ)",
@@ -2185,7 +2190,8 @@
          
       ],
       "languages":[
-         "Английский (英語)"
+         "Английский (英語)",
+		 "Гренадский (антильский) франко-креольский (グレナダ・クレオール語)"
       ],
       "center":[
          12.11666666,
@@ -2193,7 +2199,7 @@
       ],
       "name":"グレナダ",
       "nameRu":"Гренада",
-      "nativeName":"Grenada",
+      "nativeName":"",
       "population":103328,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -2207,7 +2213,8 @@
          
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Гваделупский (антильский) франко-креольский (グアドループ・クレオール語)"
       ],
       "center":[
          16.25,
@@ -2215,7 +2222,7 @@
       ],
       "name":"グアドループ",
       "nameRu":"Гваделупа",
-      "nativeName":"Guadeloupe",
+      "nativeName":"",
       "population":400132,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -2231,8 +2238,7 @@
       ],
       "languages":[
          "Английский (英語)",
-         "Чаморро (チャモロ語)",
-         "Испанский (スペイン語)"
+         "Чаморро (チャモロ語)"
       ],
       "center":[
          13.46666666,
@@ -2240,7 +2246,7 @@
       ],
       "name":"グアム",
       "nameRu":"Гуам",
-      "nativeName":"Guam",
+      "nativeName":"",
       "population":184200,
       "region":"Oceania",
       "subregion":"Микронезия (ミクロネシア)",
@@ -2289,7 +2295,7 @@
       ],
       "name":"ガーンジー",
       "nameRu":"Гернси",
-      "nativeName":"Guernsey",
+      "nativeName":"",
       "population":62999,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -2309,8 +2315,7 @@
          "SLE"
       ],
       "languages":[
-         "Французский (フランス語)",
-         "Фула (フラニ語)"
+         "Французский (フランス語)"
       ],
       "center":[
          11,
@@ -2379,8 +2384,8 @@
          "DOM"
       ],
       "languages":[
-         "Французский (フランス語)",
-         "Гаитянский креольский (ハイチ語)"
+         "Гаитянский креольский (ハイチ語)",
+         "Французский (フランス語)"
       ],
       "center":[
          19,
@@ -2388,7 +2393,7 @@
       ],
       "name":"ハイチ",
       "nameRu":"Гаити",
-      "nativeName":"Haïti",
+      "nativeName":"",
       "population":11078033,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -2425,10 +2430,8 @@
          "ITA"
       ],
       "languages":[
-         "Латинский / латынь (ラテン語)",
          "Итальянский (イタリア語)",
-         "Французский (フランス語)",
-         "Немецкий (ドイツ語)"
+         "Латинский / латынь (ラテン語)"
       ],
       "center":[
          41.9,
@@ -2436,7 +2439,7 @@
       ],
       "name":"バチカン",
       "nameRu":"Ватикан",
-      "nativeName":"Sancta Sedes",
+      "nativeName":"",
       "population":451,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -2482,13 +2485,13 @@
          114.16666666
       ],
       "name":"香港",
-      "nameRu":"Гонконг",
+      "nameRu":"Гонконг/Сянган",
       "nativeName":"香港",
       "population":7324300,
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
       "capital":"香港",
-      "capitalBothLangs":"Гонконг (香港)",
+      "capitalBothLangs":"Гонконг/Сянган (香港／ホンコン)",
       "sovereignty":"CHN"
    },
    "HUN":{
@@ -2564,7 +2567,7 @@
       ],
       "name":"インド",
       "nameRu":"Индия",
-      "nativeName":"भारत",
+      "nativeName":"",
       "population":1295210000,
       "region":"Asia",
       "subregion":"Южная Азия (南アジア)",
@@ -2670,7 +2673,7 @@
       ],
       "name":"イラク",
       "nameRu":"Ирак",
-      "nativeName":"العراق",
+      "nativeName":"",
       "population":37883543,
       "region":"Asia",
       "subregion":"Западная Азия (西アジア)",
@@ -2693,7 +2696,7 @@
       ],
       "name":"アイルランド",
       "nameRu":"Ирландия",
-      "nativeName":"Éire",
+      "nativeName":"",
       "population":6378000,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -2716,7 +2719,7 @@
       ],
       "name":"マン島",
       "nameRu":"Остров Мэн",
-      "nativeName":"Isle of Man",
+      "nativeName":"",
       "population":84497,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -2743,7 +2746,7 @@
       ],
       "name":"イスラエル",
       "nameRu":"Израиль",
-      "nativeName":"יִשְׂרָאֵל",
+      "nativeName":"",
       "population":8527400,
       "region":"Asia",
       "subregion":"Западная Азия (西アジア)",
@@ -2784,7 +2787,9 @@
          
       ],
       "languages":[
-         "Английский (英語)"
+         "Английский (英語)",
+         "Ямайский креольский (ジャマイカ・クレオール語)",
+         "Испанский (スペイン語)"
       ],
       "center":[
          18.25,
@@ -2792,7 +2797,7 @@
       ],
       "name":"ジャマイカ",
       "nameRu":"Ямайка",
-      "nativeName":"Jamaica",
+      "nativeName":"",
       "population":2723246,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -2814,12 +2819,12 @@
       ],
       "name":"日本",
       "nameRu":"Япония",
-      "nativeName":"日本",
+      "nativeName":"",
       "population":126960000,
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
       "capital":"東京",
-      "capitalBothLangs":"Токио (東京)"
+      "capitalBothLangs":"Токио (東京／とうきょう)"
    },
    "JEY":{
       "a2":"JE",
@@ -2829,7 +2834,8 @@
       ],
       "languages":[
          "Английский (英語)",
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Нормандский (ノルマン語)"
       ],
       "center":[
          49.25,
@@ -2837,7 +2843,7 @@
       ],
       "name":"ジャージー",
       "nameRu":"Джерси",
-      "nativeName":"Jersey",
+      "nativeName":"",
       "population":100800,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -2890,7 +2896,7 @@
       ],
       "name":"カザフスタン",
       "nameRu":"Казахстан",
-      "nativeName":"Қазақстан",
+      "nativeName":"",
       "population":17753200,
       "region":"Asia",
       "subregion":"Центральная Азия (中央アジア)",
@@ -2917,7 +2923,7 @@
       ],
       "name":"ケニア",
       "nameRu":"Кения",
-      "nativeName":"Kenya",
+      "nativeName":"",
       "population":47251000,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -2931,6 +2937,7 @@
          
       ],
       "languages":[
+         "Кирибати (キリバス語)",
          "Английский (英語)"
       ],
       "center":[
@@ -2939,7 +2946,7 @@
       ],
       "name":"キリバス",
       "nameRu":"Кирибати",
-      "nativeName":"Kiribati",
+      "nativeName":"",
       "population":113400,
       "region":"Oceania",
       "subregion":"Микронезия (ミクロネシア)",
@@ -3054,8 +3061,7 @@
          "SYR"
       ],
       "languages":[
-         "Арабский (アラビア語)",
-         "Французский (フランス語)"
+         "Арабский (アラビア語)"
       ],
       "center":[
          33.83333333,
@@ -3086,7 +3092,7 @@
       ],
       "name":"レソト",
       "nameRu":"Лесото",
-      "nativeName":"Lesotho",
+      "nativeName":"",
       "population":1894194,
       "region":"Africa",
       "subregion":"Южная Африка (南アフリカ)",
@@ -3201,9 +3207,9 @@
          "DEU"
       ],
       "languages":[
+         "Люксембургский (ルクセンブルク語)",
          "Французский (フランス語)",
-         "Немецкий (ドイツ語)",
-         "Люксембургский (ルクセンブルク語)"
+         "Немецкий (ドイツ語)"
       ],
       "center":[
          49.75,
@@ -3211,7 +3217,7 @@
       ],
       "name":"ルクセンブルク",
       "nameRu":"Люксембург",
-      "nativeName":"Luxembourg",
+      "nativeName":"",
       "population":576200,
       "region":"Europe",
       "subregion":"Западная Европа (西ヨーロッパ)",
@@ -3234,7 +3240,7 @@
       ],
       "name":"マカオ",
       "nameRu":"Макао",
-      "nativeName":"澳門",
+      "nativeName":"",
       "population":649100,
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
@@ -3253,7 +3259,8 @@
          "SRB"
       ],
       "languages":[
-         "Македонский (マケドニア語)"
+         "Македонский (マケドニア語)",
+         "Албанский (アルバニア語)"
       ],
       "center":[
          41.83333333,
@@ -3261,7 +3268,7 @@
       ],
       "name":"北マケドニア",
       "nameRu":"Северная Македония",
-      "nativeName":"Македонија",
+      "nativeName":"",
       "population":2058539,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -3275,8 +3282,8 @@
          
       ],
       "languages":[
-         "Французский (フランス語)",
-         "Малагасийский (マラガシ語／マダガスカル語)"
+         "Малагасийский (マラガシ語／マダガスカル語)",
+         "Французский (フランス語)"
       ],
       "center":[
          -20,
@@ -3284,7 +3291,7 @@
       ],
       "name":"マダガスカル",
       "nameRu":"Мадагаскар",
-      "nativeName":"Madagasikara",
+      "nativeName":"",
       "population":22434363,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -3309,7 +3316,7 @@
       ],
       "name":"マラウイ",
       "nameRu":"Малави",
-      "nativeName":"Malawi",
+      "nativeName":"",
       "population":16832910,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -3355,7 +3362,7 @@
       ],
       "name":"モルディブ",
       "nameRu":"Мальдивы",
-      "nativeName":"Maldives",
+      "nativeName":"ދިވެހިރާއްޖެ",
       "population":344023,
       "region":"Asia",
       "subregion":"Южная Азия (南アジア)",
@@ -3375,7 +3382,8 @@
          "SEN"
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Бамана / бамбара (バンバラ語)"
       ],
       "center":[
          17,
@@ -3383,7 +3391,7 @@
       ],
       "name":"マリ",
       "nameRu":"Мали",
-      "nativeName":"Mali",
+      "nativeName":"",
       "population":18135000,
       "region":"Africa",
       "subregion":"Западная Африка (西アフリカ)",
@@ -3420,8 +3428,8 @@
          
       ],
       "languages":[
-         "Английский (英語)",
-         "Маршалльский (マーシャル語)"
+         "Маршалльский (マーシャル語)",
+         "Английский (英語)"
       ],
       "center":[
          9,
@@ -3429,7 +3437,7 @@
       ],
       "name":"マーシャル諸島",
       "nameRu":"Маршалловы острова",
-      "nativeName":"M̧ajeļ",
+      "nativeName":"",
       "population":54880,
       "region":"Oceania",
       "subregion":"Микронезия (ミクロネシア)",
@@ -3443,7 +3451,8 @@
          
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+		 "Мартиникский (антильский) франко-креольский (マルティニーク・クレオール語)"
       ],
       "center":[
          14.666667,
@@ -3469,7 +3478,8 @@
          "ESH"
       ],
       "languages":[
-         "Арабский (アラビア語)"
+         "Арабский (アラビア語)",
+         "Французский (フランス語)"
       ],
       "center":[
          20,
@@ -3477,7 +3487,7 @@
       ],
       "name":"モーリタニア",
       "nameRu":"Мавритания",
-      "nativeName":"موريتانيا",
+      "nativeName":"",
       "population":3718678,
       "region":"Africa",
       "subregion":"Западная Африка (西アフリカ)",
@@ -3491,7 +3501,9 @@
          
       ],
       "languages":[
-         "Английский (英語)"
+         "Английский (英語)",
+         "Французский (フランス語)",
+         "Маврикийский креольский (モーリシャス・クレオール語)"
       ],
       "center":[
          -20.28333333,
@@ -3499,7 +3511,7 @@
       ],
       "name":"モーリシャス",
       "nameRu":"Маврикий",
-      "nativeName":"Maurice",
+      "nativeName":"",
       "population":1262879,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -3513,7 +3525,8 @@
          
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Коморский (コモロ語)"
       ],
       "center":[
          -12.83333333,
@@ -3521,7 +3534,7 @@
       ],
       "name":"マヨット",
       "nameRu":"Майотта",
-      "nativeName":"Mayotte",
+      "nativeName":"",
       "population":226915,
       "region":"Africa",
       "subregion":"Восточная Африка (東アフリカ)",
@@ -3572,8 +3585,8 @@
       "population":102800,
       "region":"Oceania",
       "subregion":"Микронезия (ミクロネシア)",
-      "capital":"",
-      "capitalBothLangs":""
+      "capital":"パリキール",
+      "capitalBothLangs":"Паликир (パリキール)"
    },
    "MDA":{
       "a2":"MD",
@@ -3583,7 +3596,7 @@
          "UKR"
       ],
       "languages":[
-         "Румынский (ルーマニア語)"
+         "Молдавский (モルドバ語)"
       ],
       "center":[
          47,
@@ -3605,7 +3618,8 @@
          "FRA"
       ],
       "languages":[
-         "Французский (フランス語)"
+         "Французский (フランス語)",
+         "Лигурский (リグリア語)"
       ],
       "center":[
          43.73333333,
@@ -3613,7 +3627,7 @@
       ],
       "name":"モナコ",
       "nameRu":"Монако",
-      "nativeName":"Monaco",
+      "nativeName":"",
       "population":38400,
       "region":"Europe",
       "subregion":"Западная Европа (西ヨーロッパ)",
@@ -3636,7 +3650,7 @@
       ],
       "name":"モンゴル",
       "nameRu":"Монголия",
-      "nativeName":"Монгол улс",
+      "nativeName":"Монгол Улс",
       "population":3093100,
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
@@ -3654,10 +3668,7 @@
          "SRB"
       ],
       "languages":[
-         "Сербский (セルビア語)",
-         "Боснийский (ボスニア語)",
-         "Албанский (アルバニア語)",
-         "Хорватский (クロアチア語)"
+         "Черногорский (モンテネグロ語)"
       ],
       "center":[
          42.5,
@@ -3665,7 +3676,7 @@
       ],
       "name":"モンテネグロ",
       "nameRu":"Черногория",
-      "nativeName":"Црна Гора",
+      "nativeName":"",
       "population":621810,
       "region":"Europe",
       "subregion":"Южная Европа (南ヨーロッパ)",
@@ -3687,7 +3698,7 @@
       ],
       "name":"モントセラト",
       "nameRu":"Монтсеррат",
-      "nativeName":"Montserrat",
+      "nativeName":"",
       "population":4922,
       "region":"Americas",
       "subregion":"Карибы (カリブ)",
@@ -3704,7 +3715,8 @@
          "ESP"
       ],
       "languages":[
-         "Арабский (アラビア語)"
+         "Арабский (アラビア語)",
+         "Берберский (ベルベル語)"
       ],
       "center":[
          32,
@@ -3712,7 +3724,7 @@
       ],
       "name":"モロッコ",
       "nameRu":"Марокко",
-      "nativeName":"المغرب",
+      "nativeName":"",
       "population":33337529,
       "region":"Africa",
       "subregion":"Северная Африка (北アフリカ)",
@@ -3765,7 +3777,7 @@
       ],
       "name":"ミャンマー",
       "nameRu":"Мьянма",
-      "nativeName":"Myanma",
+      "nativeName":"မြန်မာ",
       "population":51419420,
       "region":"Asia",
       "subregion":"Юго-Восточная Азия (東南アジア)",
@@ -3782,8 +3794,7 @@
          "ZMB"
       ],
       "languages":[
-         "Английский (英語)",
-         "Африкаанс (アフリカーンス語)"
+         "Английский (英語)"
       ],
       "center":[
          -22,
@@ -3806,7 +3817,7 @@
       ],
       "languages":[
          "Английский (英語)",
-         "Науру / науруанский (ナウル語)"
+         "Науруанский (ナウル語)"
       ],
       "center":[
          -0.53333333,
@@ -3814,7 +3825,7 @@
       ],
       "name":"ナウル",
       "nameRu":"Науру",
-      "nativeName":"Nauru",
+      "nativeName":"",
       "population":10084,
       "region":"Oceania",
       "subregion":"Микронезия (ミクロネシア)",
@@ -3906,7 +3917,7 @@
       ],
       "name":"ニュージーランド",
       "nameRu":"Новая Зеландия",
-      "nativeName":"New Zealand",
+      "nativeName":"",
       "population":4697854,
       "region":"Oceania",
       "subregion":"Австралия и Новая Зеландия (オーストラリアとニュージーランド)",
@@ -3974,7 +3985,10 @@
          "NER"
       ],
       "languages":[
-         "Английский (英語)"
+         "Английский (英語)",
+         "Хауса (ハウサ語)",
+         "Йоруба (ヨルバ語)",
+         "Игбо (イボ語)"
       ],
       "center":[
          10,
@@ -3982,7 +3996,7 @@
       ],
       "name":"ナイジェリア",
       "nameRu":"Нигерия",
-      "nativeName":"Nigeria",
+      "nativeName":"",
       "population":186988000,
       "region":"Africa",
       "subregion":"Западная Африка (西アフリカ)",
@@ -3996,7 +4010,8 @@
          
       ],
       "languages":[
-         "Английский (英語)"
+         "Английский (英語)",
+		 "Ниуэ (ニウエ語)"
       ],
       "center":[
          -19.03333333,
@@ -4004,7 +4019,7 @@
       ],
       "name":"ニウエ",
       "nameRu":"Ниуэ",
-      "nativeName":"Niuē",
+      "nativeName":"",
       "population":1470,
       "region":"Oceania",
       "subregion":"Полинезия (ポリネシア)",
@@ -4019,7 +4034,8 @@
          
       ],
       "languages":[
-         "Английский (英語)"
+         "Английский (英語)",
+		 "Норфолкский (ノーフォーク語)"
       ],
       "center":[
          -29.03333333,
@@ -4027,7 +4043,7 @@
       ],
       "name":"ノーフォーク島",
       "nameRu":"Остров Норфолк",
-      "nativeName":"Norfolk Island",
+      "nativeName":"",
       "population":2302,
       "region":"Oceania",
       "subregion":"Австралия и Новая Зеландия (オーストラリアとニュージーランド)",
@@ -4052,12 +4068,12 @@
       ],
       "name":"北朝鮮",
       "nameRu":"Северная Корея",
-      "nativeName":"북한",
+      "nativeName":"",
       "population":25281000,
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
       "capital":"平壌",
-      "capitalBothLangs":"Пхеньян (平壌)"
+      "capitalBothLangs":"Пхеньян (平壌／ピョンヤン)"
    },
    "MNP":{
       "a2":"MP",
@@ -4067,7 +4083,8 @@
       ],
       "languages":[
          "Английский (英語)",
-         "Чаморро (チャモロ語)"
+         "Чаморро (チャモロ語)",
+         "Каролинский (カロリン語)"
       ],
       "center":[
          15.2,
@@ -4075,7 +4092,7 @@
       ],
       "name":"北マリアナ諸島",
       "nameRu":"Северные Марианские острова",
-      "nativeName":"Northern Mariana Islands",
+      "nativeName":"",
       "population":56940,
       "region":"Oceania",
       "subregion":"Микронезия (ミクロネシア)",
@@ -4100,7 +4117,7 @@
       ],
       "name":"ノルウェー",
       "nameRu":"Норвегия",
-      "nativeName":"Norge",
+      "nativeName":"",
       "population":5223256,
       "region":"Europe",
       "subregion":"Северная Европа (北ヨーロッパ)",
@@ -5413,7 +5430,7 @@
       "region":"Asia",
       "subregion":"Восточная Азия (東アジア)",
       "capital":"台北",
-      "capitalBothLangs":"Тайбэй (台北)"
+      "capitalBothLangs":"Тайбэй (台北／たいほく／タイペイ)"
    },
    "TJK":{
       "a2":"TJ",

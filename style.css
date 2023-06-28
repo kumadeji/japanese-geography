@@ -1,6 +1,6 @@
 @font-face {
-	font-family: 'Fira Code';
-	src: url('res/fonts/FiraCode-VariableFont_wght.ttf');
+	font-family: 'Fira Code', monospace;
+	font-family: 'Noto Color Emoji', sans-serif;
 }
 
 :root {
@@ -27,7 +27,7 @@
     --error: #D95757;
     --warning: #EDBC5A;
     --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    --monospace: "Fira Code", Inconsolata, "SFMono-Regular", "Consolas", "Menlo", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", monospace;
+    --monospace: "Fira Code", 'Noto Color Emoji', Inconsolata, "SFMono-Regular", "Consolas", "Menlo", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", monospace;
 }
 
 * {
@@ -128,6 +128,7 @@ p a {
     text-decoration: none;
     color: var(--accent);
     position: relative;
+    font-weight: 700;
 }
 p a:before {
     content: "";
@@ -159,6 +160,17 @@ p a:hover:before {width: 100%;}
     font-weight: 700;
     font-size: 3em;
     margin: 10px 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.placeholder {
+    font-family: var(--font);
+    color: var(--text_bright);
+    font-weight: 700;
+    font-size: 1.5em;
     -webkit-user-select: none;
     -moz-user-select: none;
     -o-user-select: none;
@@ -945,7 +957,7 @@ input:checked + .radioLabel {
 
 #explore {
     display: grid;
-    grid-template-columns: 1fr 350px;
+    grid-template-columns: 1fr 400px;
     grid-template-rows: 1fr;
 }
 #exploreMap {
@@ -1465,6 +1477,16 @@ ul d, ol d {
 .loaderText {
     margin-top: 58px;
     letter-spacing: 3px;
+    font-family: var(--monospace);
+    -webkit-animation: loaderText 2s ease-in-out infinite;
+    -moz-animation: loaderText 2s ease-in-out infinite;
+    -o-animation: loaderText 2s ease-in-out infinite;
+    -ms-animation: loaderText 2s ease-in-out infinite;
+    animation: loaderText 2s ease-in-out infinite;
+}
+.placeholderText {
+    margin: 2em;
+    text-align: center;
     font-family: var(--monospace);
     -webkit-animation: loaderText 2s ease-in-out infinite;
     -moz-animation: loaderText 2s ease-in-out infinite;

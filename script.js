@@ -9,7 +9,7 @@ const exploreDetailsBreakPoint = 1000;
 const exploreDetailsHeightBreakPoint = 900;
 
 const tinyIslands = ["ABW","AIA","ALA","ASM","ATF","ATG","BES","BHR","BHS","BLM","BMU","BRB","BRN","BVT","CCK","COK","COM","CPV","CUW","CXR","CYM","DMA","FJI","FLK","FRO","FSM","GGY","GLP","GRD","GUM","HMD","IMN","IOT","JEY","JAM","KIR","KNA","LCA","MAF","MDV","MHL","MLT","MNP","MSR","MTQ","MUS","MYT","NFK","NIU","NRU","PCN","PLW","PYF","REU","SGS","SHN","SJM","SLB","SPM","STP","SXM","SYC","TCA","TKL","TLS","TON","TTO","TUV","VCT","VGB","VIR","VUT","WLF","WSM"];
-let extendedNames = {"ALAND":["ALA"],"SAMOA":["ASM"],"ANTIGUA":["ATG"],"BARBUDA":["ATG"],"BENGAL":["BGD"],"BIM":["BRB"],"GUDIJA":["BLR"],"DAHOMEY":["BEN"],"BONAIRE":["BES"],"EUSTATIUS":["BES"],"SABA":["BES"],"BOSNIA":["BIH"],"HERZEGOVINA":["BIH"],"BRASIL":["BRA"],"BRITISHINDIAN":["IOT"],"VIRGIN":["VGB","VIR"],"BRITISHVIRGIN":["VGB"],"UKVIRGIN":["VGB"],"USVIRGIN":["VIR"],"UNITEDSTATESVIRGIN":["VIR"],"DARUSSALAM":["BRN"],"BOURKINAFASSO":["BFA"],"KAMPUCHEA":["KHM"],"KHMER":["KHM"],"TCHAD":["TCD"],"CHILLI":["CHL"],"CHILI":["CHL"],"KEELING":["CCK"],"KOMORI":["COM"],"BRAZZAVILLE":["COG"],"DRC":["COD"],"KINSHASA":["COD"],"HRVATSKA":["HRV"],"CZECH":["CZE"],"BOHEMIA":["CZE"],"DANMARK":["DNK"],"DR":["DOM"],"DOMINICAN":["DOM"],"DOMINICANA":["DOM"],"REPUBLICADOMINICANA":["DOM"],"KIMI":["EGY"],"GUINEAEQUATORIAL":["GNQ"],"EESTI":["EST"],"ABYSSINIA":["ETH"],"MALVINAS":["FLK"],"SUOMI":["FIN"],"GUYANE":["GUF"],"Полинезия":["PYF"],"FRENCHSOUTHERN":["ATF"],"IVERIA":["GEO"],"DEUTSCHLAND":["DEU"],"GDR":["DEU"],"BRD":["DEU"],"GOLDCOAST":["GHA"],"HELLADA":["GRC"],"HELLAS":["GRC"],"BISSAU":["GIN"],"HEARD":["HMD"],"MCDONALD":["HMD"],"VATICAN":["VAT"],"BHARAT":["IND"],"NUSANTARA":["IDN"],"DUTCHEASTINDIES":["IDN"],"INDUNESIA":["IDN"],"IVORYCOAST":["CIV"],"EIRE":["IRL"],"ZION":["ISR"],"ITALIANA":["ITA"],"ITALIA":["ITA"],"XAMAYCA":["JAM"],"NIPPON":["JPN"],"CHANNEL":["JEY","GGY"],"KYRGYZ":["KGZ"],"LAO":["LAO"],"LATVIJA":["LVA"],"MACEDONIA":["MKD"],"MOLDAVIA":["MDA"],"BURMA":["MMR"],"MARIANA":["MNP"],"NORGE":["NOR"],"FILIPINAS":["PHL"],"POLSKA":["POL"],"RF":["RUS"],"SOVIETUNION":["RUS"],"RUSSIANFEDERATION":["RUS"],"RUANDA":["RWA"],"HELENA":["SHN"],"ASCENSION":["SHN"],"TRISTANDACUNHA":["SHN"],"KITTS":["KNA"],"NEVIS":["KNA"],"MARTIN":["MAF","SXM"],"PIERRE":["SPM"],"MIQUELON":["SPM"],"VINCENT":["VCT"],"GRENADINES":["VCT"],"SAOTOME":["STP"],"PRINCIPE":["STP"],"SOUTHGEORGIA":["SGS"],"SANDWHICH":["SGS"],"HISPANIA":["ESP"],"ESPANA":["ESP"],"EASTTIMOR":["TLS"],"TIMOR":["TLS"],"TRINIDAD":["TTO"],"TOBAGO":["TTO"],"CAICOS":["TCA"],"UAE":["ARE"],"UK":["GBR"],"BRITAIN":["GBR"],"GREATBRITAIN":["GBR"],"USA":["USA"],"AMERICA":["USA"],"WALLIS":["WLF"],"FUTUNA":["WLF"],"SAHRAWI":["ESH"],"MOROCCO":["ESH"],"CABOVERDE":["CPV"],"MACAU":["MAC"]};
+let extendedNames = {"ALAND":["ALA"],"SAMOA":["ASM"],"ANTIGUA":["ATG"],"BARBUDA":["ATG"],"BENGAL":["BGD"],"BIM":["BRB"],"GUDIJA":["BLR"],"DAHOMEY":["BEN"],"BONAIRE":["BES"],"EUSTATIUS":["BES"],"SABA":["BES"],"BOSNIA":["BIH"],"HERZEGOVINA":["BIH"],"BRASIL":["BRA"],"BRITISHINDIAN":["IOT"],"VIRGIN":["VGB","VIR"],"BRITISHVIRGIN":["VGB"],"UKVIRGIN":["VGB"],"USVIRGIN":["VIR"],"UNITEDSTATESVIRGIN":["VIR"],"DARUSSALAM":["BRN"],"BOURKINAFASSO":["BFA"],"KAMPUCHEA":["KHM"],"KHMER":["KHM"],"TCHAD":["TCD"],"CHILLI":["CHL"],"CHILI":["CHL"],"KEELING":["CCK"],"KOMORI":["COM"],"BRAZZAVILLE":["COG"],"DRC":["COD"],"KINSHASA":["COD"],"HRVATSKA":["HRV"],"CZECH":["CZE"],"BOHEMIA":["CZE"],"DANMARK":["DNK"],"DR":["DOM"],"DOMINICAN":["DOM"],"DOMINICANA":["DOM"],"REPUBLICADOMINICANA":["DOM"],"KIMI":["EGY"],"GUINEAEQUATORIAL":["GNQ"],"EESTI":["EST"],"ABYSSINIA":["ETH"],"MALVINAS":["FLK"],"SUOMI":["FIN"],"GUYANE":["GUF"],"POLYNESIA":["PYF"],"FRENCHSOUTHERN":["ATF"],"IVERIA":["GEO"],"DEUTSCHLAND":["DEU"],"GDR":["DEU"],"BRD":["DEU"],"GOLDCOAST":["GHA"],"HELLADA":["GRC"],"HELLAS":["GRC"],"BISSAU":["GIN"],"HEARD":["HMD"],"MCDONALD":["HMD"],"VATICAN":["VAT"],"BHARAT":["IND"],"NUSANTARA":["IDN"],"DUTCHEASTINDIES":["IDN"],"INDUNESIA":["IDN"],"IVORYCOAST":["CIV"],"EIRE":["IRL"],"ZION":["ISR"],"ITALIANA":["ITA"],"ITALIA":["ITA"],"XAMAYCA":["JAM"],"NIPPON":["JPN"],"CHANNEL":["JEY","GGY"],"KYRGYZ":["KGZ"],"LAO":["LAO"],"LATVIJA":["LVA"],"MACEDONIA":["MKD"],"MOLDAVIA":["MDA"],"BURMA":["MMR"],"MARIANA":["MNP"],"NORGE":["NOR"],"FILIPINAS":["PHL"],"POLSKA":["POL"],"RF":["RUS"],"SOVIETUNION":["RUS"],"RUSSIANFEDERATION":["RUS"],"RUANDA":["RWA"],"HELENA":["SHN"],"ASCENSION":["SHN"],"TRISTANDACUNHA":["SHN"],"KITTS":["KNA"],"NEVIS":["KNA"],"MARTIN":["MAF","SXM"],"PIERRE":["SPM"],"MIQUELON":["SPM"],"VINCENT":["VCT"],"GRENADINES":["VCT"],"SAOTOME":["STP"],"PRINCIPE":["STP"],"SOUTHGEORGIA":["SGS"],"SANDWHICH":["SGS"],"HISPANIA":["ESP"],"ESPANA":["ESP"],"EASTTIMOR":["TLS"],"TIMOR":["TLS"],"TRINIDAD":["TTO"],"TOBAGO":["TTO"],"CAICOS":["TCA"],"UAE":["ARE"],"UK":["GBR"],"BRITAIN":["GBR"],"GREATBRITAIN":["GBR"],"USA":["USA"],"AMERICA":["USA"],"WALLIS":["WLF"],"FUTUNA":["WLF"],"SAHRAWI":["ESH"],"MOROCCO":["ESH"],"CABOVERDE":["CPV"],"MACAU":["MAC"]};
 let extendedCapitals = {};
 
 const defaultGame = {
@@ -111,6 +111,8 @@ const exploreMapOptions = {
 const centerLatLng = [43.06888777,-15.46875];
 const centerZoom = 3;
 
+const centerJapanLatLng = [36,139];
+const centerJapanZoom = 5;
 
 //Event Handlers
 window.addEventListener('load', function() {
@@ -903,7 +905,7 @@ function loadMap(options = {}, countryOptions = {}, baseMap = true) {
     
     //Set BASEMAP
     if(baseMap) {
-        var bm = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'}).addTo(map);
+        var bm = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
     }
 
     // Lazy load geoJSON
@@ -1133,7 +1135,7 @@ function loadExploreMap(baseMap = true) {
     
     //Set BASEMAPs
     if(baseMap) {
-        var base = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+        var base = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
         var pane = exploreMap.createPane('labels');
         pane.style.zIndex = 650;
         pane.style.pointerEvents = 'none';
@@ -1142,6 +1144,129 @@ function loadExploreMap(baseMap = true) {
 
     if(!geoJSON) {
         loadJSON('countries.geojson', function(res) {
+            geoJSON = res;
+            setExploreGeoJSON();
+        });
+    }
+    else {setExploreGeoJSON();}
+}
+function loadExploreJapan(baseMap = true) {
+    // Show loading screen
+    toScreen('loading');
+
+    //Clear Up Old Map/data if exists
+    deleteExploreMap();
+	
+	// deleteMap();
+	// hideExploreDetails();
+
+    // Lazy load data
+    if(!countryData) {
+        loadJSON('countryInfo.json', function(res) {
+            setupDataStructs(res);
+            checkExploreLoad();
+        });
+    }
+    else {checkExploreLoad();}
+    
+    //Make Map
+    exploreMap = L.map('exploreMap', exploreMapOptions);
+    exploreMap.on('load', checkExploreLoad);
+    exploreMap.setView(centerJapanLatLng, centerJapanZoom);
+    
+    //Set BASEMAPs
+    if(baseMap) {
+        var base = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+        var pane = exploreMap.createPane('labels');
+        pane.style.zIndex = 650;
+        pane.style.pointerEvents = 'none';
+        var labels = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/light_only_labels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', subdomains: 'abcd', maxZoom: 20, pane: 'labels', noWrap: true,   bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+    }
+
+    if(!geoJSON) {
+        loadJSON('japan_prefectures.geojson', function(res) {
+            geoJSON = res;
+            setExploreGeoJSON();
+        });
+    }
+    else {setExploreGeoJSON();}
+}
+function loadExploreRussia(baseMap = true) {
+    // Show loading screen
+    toScreen('loading');
+
+    //Clear Up Old Map/data if exists
+    deleteExploreMap();
+	
+	// deleteMap();
+	// hideExploreDetails();
+
+    // Lazy load data
+    if(!countryData) {
+        loadJSON('countryInfo.json', function(res) {
+            setupDataStructs(res);
+            checkExploreLoad();
+        });
+    }
+    else {checkExploreLoad();}
+    
+    //Make Map
+    exploreMap = L.map('exploreMap', exploreMapOptions);
+    exploreMap.on('load', checkExploreLoad);
+    exploreMap.setView(centerJapanLatLng, centerJapanZoom);
+    
+    //Set BASEMAPs
+    if(baseMap) {
+        var base = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+        var pane = exploreMap.createPane('labels');
+        pane.style.zIndex = 650;
+        pane.style.pointerEvents = 'none';
+        var labels = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/light_only_labels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', subdomains: 'abcd', maxZoom: 20, pane: 'labels', noWrap: true,   bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+    }
+
+    if(!geoJSON) {
+        loadJSON('russia_regions.geojson', function(res) {
+            geoJSON = res;
+            setExploreGeoJSON();
+        });
+    }
+    else {setExploreGeoJSON();}
+}
+function loadExploreTokyo(baseMap = true) {
+    // Show loading screen
+    toScreen('loading');
+
+    //Clear Up Old Map/data if exists
+    deleteExploreMap();
+	
+	// deleteMap();
+	// hideExploreDetails();
+
+    // Lazy load data
+    if(!countryData) {
+        loadJSON('countryInfo.json', function(res) {
+            setupDataStructs(res);
+            checkExploreLoad();
+        });
+    }
+    else {checkExploreLoad();}
+    
+    //Make Map
+    exploreMap = L.map('exploreMap', exploreMapOptions);
+    exploreMap.on('load', checkExploreLoad);
+    exploreMap.setView(centerJapanLatLng, centerJapanZoom);
+    
+    //Set BASEMAPs
+    if(baseMap) {
+        var base = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', noWrap: true, bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+        var pane = exploreMap.createPane('labels');
+        pane.style.zIndex = 650;
+        pane.style.pointerEvents = 'none';
+        var labels = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/light_only_labels/{z}/{x}/{y}{r}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>', subdomains: 'abcd', maxZoom: 20, pane: 'labels', noWrap: true,   bounds: [[-90, -180],[90, 180]]}).addTo(exploreMap);
+    }
+
+    if(!geoJSON) {
+        loadJSON('japan_tokyo.geojson', function(res) {
             geoJSON = res;
             setExploreGeoJSON();
         });
@@ -1311,7 +1436,7 @@ function setExploreAliases(id) {
     var aliasesHTML = '';
     var names = id in aliases ? aliases[id].slice() : [];
     if(countryData[id].nativeName && countryData[id].nativeName !== countryData[id].name) {
-        names.push([countryData[id].nativeName, 'имя на языке страны']);
+        names.push([countryData[id].nativeName, 'простое имя на языке страны']);
     }
     if(names.length == 0) {
         aliasesHTML = '<span class="noData">Нет других названий</span>';

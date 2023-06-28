@@ -1,1260 +1,5264 @@
 {
+   "AFG":[
+      [
+         "Afghanistan",
+         "простое на английском"
+      ],
+      [
+         "Islamic Emirate of Afghanistan",
+         "официальное на английском"
+      ],
+      [
+         "Исла́мский Эмира́т Афганиста́н",
+         "официальное на русском"
+      ],
+      [
+         "アフガニスタン・イスラム首長国",
+         "официальное на японском"
+      ],
+      [
+         "د افغانستان اسلامي امارات‎",
+         "официальное имя на языке страны - пушту"
+      ],
+      [
+         "امارت اسلامی افغانستان",
+         "официальное имя на языке страны - дари"
+      ],
+      [
+         "افغانستان",
+         "простое имя на языке страны - пушту / дари"
+      ]
+   ],
+   "ALA":[
+      [
+         "Åland",
+         "простое на английском"
+      ],
+      [
+         "Åland Islands",
+         "полное на английском"
+      ],
+      [
+         "Аландские острова",
+         "полное на русском"
+      ],
+      [
+         "Ahvenanmaa",
+         "единственное имя на языке страны - финский"
+      ],
+      [
+         "Landskapet Åland",
+         "официальное имя на языке страны - шведский"
+      ],
+      [
+         "Åland",
+         "простое имя на языке страны - шведский"
+      ]
+   ],
    "ALB":[
       [
-         "Arnavutluk",
-         "Turkish"
+         "Albania",
+         "простое на английском"
+      ],
+      [
+         "Republic of Albania",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Алба́ния",
+         "официальное на русском"
+      ],
+      [
+         "アルバニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republika e Shqipërisë",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "DZA":[
+      [
+         "Algeria",
+         "простое на английском"
+      ],
+      [
+         "People's Democratic Republic of Algeria",
+         "официальное на английском"
+      ],
+      [
+         "Алжи́рская Наро́дная Демократи́ческая Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "アルジェリア民主人民共和国",
+         "официальное на японском"
+      ],
+      [
+         "اَلْجُمهُورِيَّة اَلْجَزَائِرِيَّة اَلدِّيمُقرَاطِيَّة اَلشَّعبِيَّة",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "ⵟⴰⴳⴷⵓⴷⴰ ⵜⴰⵎⴻⴳⴷⴰⵢⵜ ⵜⴰⵖⴻⵔⴼⴰⵏⵜ ⵜⴰⵣⵣⴰⵢⵔⵉⵜ",
+         "официальное имя на языке страны - берберский"
+      ],
+      [
+         "الجزائر",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "ⴷⵣⴰⵢⴻⵔ",
+         "простое имя на языке страны - берберский"
+      ]
+   ],
+   "ASM":[
+      [
+         "Amerika Sāmoa",
+         "официальное имя на языке страны - самоанский"
+      ]
+   ],
+   "AND":[
+      [
+         "Andorra",
+         "простое на английском"
+      ],
+      [
+         "Principality of Andorra",
+         "официальное на английском"
+      ],
+      [
+         "Кня́жество Андо́рра",
+         "официальное на русском"
+      ],
+      [
+         "アンドラ公国",
+         "официальное на японском"
+      ],
+      [
+         "Principat d'Andorra",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "AGO":[
+      [
+         "Angola",
+         "простое на английском"
+      ],
+      [
+         "Republic of Angola",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Анго́ла",
+         "официальное на русском"
+      ],
+      [
+         "アンゴラ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Angola",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ARG":[
+      [
+         "Argentina",
+         "простое на английском"
+      ],
+      [
+         "Argentine Republic",
+         "официальное на английском"
+      ],
+      [
+         "Аргенти́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "アルゼンチン共和国",
+         "официальное на японском"
+      ],
+      [
+         "República Argentina",
+         "официальное имя на языке страны"
       ]
    ],
    "ARM":[
       [
-         "Hayastan",
-         "transliterated Armenian"
+         "Armenia",
+         "простое на английском"
+      ],
+      [
+         "Republic of Armenia",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Арме́ния",
+         "официальное на русском"
+      ],
+      [
+         "アルメニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Հայաստանի Հանրապետություն",
+         "официальное имя на языке страны"
+      ],
+      [
+         "Хайастан",
+         "транслитерация с армянского"
+      ]
+   ],
+   "AUS":[
+      [
+         "Содру́жество Австра́лии",
+         "официальное на русском"
+      ],
+      [
+         "オーストラリア連邦",
+         "официальное на японском"
+      ],
+      [
+         "Commonwealth of Australia",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "AUT":[
+      [
+         "Austria",
+         "простое на английском"
+      ],
+      [
+         "Republic of Austria",
+         "официальное на английском"
+      ],
+      [
+         "Австри́йская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "オーストリア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republik Österreich",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "AZE":[
+      [
+         "Azerbaijan",
+         "простое на английском"
+      ],
+      [
+         "Republic of Azerbaijan",
+         "официальное на английском"
+      ],
+      [
+         "Азербайджа́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "アゼルバイジャン共和国",
+         "официальное на японском"
+      ],
+      [
+         "Azərbaycan Respublikası",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BHS":[
+      [
+         "Содру́жество Бага́мских Острово́в",
+         "официальное на русском"
+      ],
+      [
+         "バハマ国",
+         "официальное на японском"
+      ],
+      [
+         "Commonwealth of the Bahamas",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BHR":[
+      [
+         "Bahrain",
+         "простое на английском"
+      ],
+      [
+         "Kingdom of Bahrain",
+         "официальное на английском"
+      ],
+      [
+         "Короле́вство Бахре́йн",
+         "официальное на русском"
+      ],
+      [
+         "バーレーン王国",
+         "официальное на японском"
+      ],
+      [
+         "مملكة البحرين",
+         "официальное имя на языке страны"
       ]
    ],
    "BGD":[
       [
+         "Bangladesh",
+         "простое на английском"
+      ],
+      [
          "People's Republic of Bangladesh",
-         "long official name in English"
+         "официальное на английском"
       ],
       [
-         "Bengal Presidency",
-         "former political name"
+         "Наро́дная Респу́блика Бангладе́ш",
+         "официальное на русском"
       ],
       [
-         "East Bengal",
-         "former political name"
+         "バングラデシュ人民共和国",
+         "официальное на японском"
       ],
       [
-         "East Pakistan",
-         "former political name"
-      ]
-   ],
-   "BRB":[
-      [
-         "Bim",
-         "nickname"
-      ],
-      [
-         "Bimshire",
-         "nickname"
-      ],
-      [
-         "Little England",
-         "nickname"
-      ],
-      [
-         "The Rock",
-         "nickname"
+         "গণপ্রজাতন্ত্রী বাংলাদেশ",
+         "официальное имя на языке страны"
       ]
    ],
    "BLR":[
       [
-         "Gudija",
-         "Lithuanian"
+         "Belarus",
+         "простое на английском"
       ],
       [
-         "Byelorussia",
-         "former name"
+         "Republic of Belarus",
+         "официальное на английском"
       ],
       [
-         "White Russia",
-         "outdated"
+         "Республика Беларусь",
+         "официальное на русском"
+      ],
+      [
+         "ベラルーシ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Рэспубліка Беларусь",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BEL":[
+      [
+         "Belgium",
+         "простое на английском"
+      ],
+      [
+         "Kingdom of Belgium",
+         "официальное на английском"
+      ],
+      [
+         "Короле́вство Бе́льгия",
+         "официальное на русском"
+      ],
+      [
+         "ベルギー王国",
+         "официальное на японском"
+      ],
+      [
+         "Koninkrijk België",
+         "официальное имя на языке страны - нидерландский / голландский"
+      ],
+      [
+         "Royaume de Belgique",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Königreich Belgien",
+         "официальное имя на языке страны - немецкий"
+      ],
+      [
+         "België",
+         "простое имя на языке страны - нидерландский / голландский"
+      ],
+      [
+         "Belgique",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Belgien",
+         "простое имя на языке страны - немецкий"
       ]
    ],
    "BEN":[
       [
-         "Dahomey",
-         "former name"
-      ]
-   ],
-   "BRA":[
-      [
-         "Terra de Santa Cruz",
-         "early Portuguese colonization"
-      ]
-   ],
-   "BFA":[
-      [
-         "Bourkina-Fasso",
-         "unofficial French"
-      ]
-   ],
-   "KHM":[
-      [
-         "Kampuchea",
-         "former official English transliteration"
-      ],
-      [
-         "Khmer Republic",
-         "former official"
-      ],
-      [
-         "Democratic Kampuchea",
-         "former official"
-      ],
-      [
-         "People's Republic of Kampuchea",
-         "former official"
-      ],
-      [
-         "State of Cambodia",
-         "former official"
-      ]
-   ],
-   "CAN":[
-      [
-         "Acadia",
-         "French colony"
-      ],
-      [
-         "Francisca",
-         "as labeled on an old map"
-      ]
-   ],
-   "CAF":[
-      [
-         "Ubangi-Shari",
-         "English"
-      ],
-      [
-         "Central African Empire",
-         "English"
-      ]
-   ],
-   "CHL":[
-      [
-         "Chilli",
-         "Mapuche"
-      ],
-      [
-         "Chili",
-         "Quechua"
-      ],
-      [
-         "Reyno de Chile",
-         "colonial Spanish"
-      ],
-      [
-         "Capitania general de Chile",
-         "colonial Spanish"
-      ]
-   ],
-   "CHN":[
-      [
-         "People's Republic of China",
-         "official"
-      ],
-      [
-         "Zhongguo",
-         "Chinese"
-      ]
-   ],
-   "CIV":[
-      [
-         "the Ivory Coast",
-         "common English"
-      ],
-      [
-         "Republic of Côte d'Ivoire",
-         "official English"
-      ]
-   ],
-   "HRV":[
-      [
-         "Hrvaška",
-         "Slovenian"
-      ]
-   ],
-   "CZE":[
-      [
-         "Czech Republic",
-         "Other offical name"
-      ],
-      [
-         "CR",
-         "English initialism"
-      ],
-      [
-         "Ceské zeme",
-         "Czech for Bohemian lands or Czech lands"
-      ],
-      [
-         "Former Ceská socialistická republika",
-         "Czech for the Czech Socialist Republic"
-      ],
-      [
-         "CSR",
-         "English initialism Protektorát"
-      ],
-      [
-         "Cechy a Morava",
-         "Czech for the Protectorate of Bohemia and Moravia"
-      ],
-      [
-         "Zeme Koruny ceské",
-         "Czech for the Lands of the Bohemian Crown"
-      ],
-      [
-         "Koruna ceská",
-         "Czech for the Bohemian Crown"
-      ],
-      [
-         "Ceská konfederace",
-         "Czech for the Bohemian Confederation"
-      ],
-      [
-         "Bohemia",
-         "Historical name"
-      ]
-   ],
-   "COD":[
-      [
-         "DRC",
-         "initialism"
-      ],
-      [
-         "Congo Kinshasa",
-         "used in contrast to Congo Brazzaville"
-      ]
-   ],
-   "TLS":[
-      [
-         "East Timor",
-         "common"
-      ]
-   ],
-   "EGY":[
-      [
-         "Kimi",
-         "Coptic"
-      ]
-   ],
-   "SWZ":[
-      [
-         "eSwatini",
-         "Swazi"
-      ]
-   ],
-   "ETH":[
-      [
-         "Abyssinia",
-         "former"
-      ],
-      [
-         "Habeshastan",
-         "Turkish"
-      ],
-      [
-         "Al-Habasha",
-         "Arabic"
-      ]
-   ],
-   "FRA":[
-      [
-         "Gallia",
-         "Contemporary Greek name"
-      ],
-      [
-         "Farança",
-         "common Arabic"
-      ],
-      [
-         "Tsarfat",
-         "common Hebrew"
-      ]
-   ],
-   "GEO":[
-      [
-         "Iveria",
-         "usually used as Christian name"
-      ],
-      [
-         "Sakartvelo",
-         "Georgian"
-      ]
-   ],
-   "DEU":[
-      [
-         "BRD",
-         "German initialism*"
-      ],
-      [
-         "FRG",
-         "English initialism*"
-      ],
-      [
-         "DDR",
-         "German initialism"
-      ],
-      [
-         "GDR",
-         "English initialism."
-      ]
-   ],
-   "GHA":[
-      [
-         "United Gold Coast Convention",
-         "UGCC"
-      ],
-      [
-         "Ghana Tinzuyu",
-         "Dagbon"
-      ],
-      [
-         "Gaana",
-         "Akan"
-      ]
-   ],
-   "GRC":[
-      [
-         "Hellas",
-         "official description in Greek"
-      ],
-      [
-         "Hellada",
-         "common name in Greek"
-      ],
-      [
-         "Yunanistan",
-         "Turkish"
-      ],
-      [
-         "Yavan",
-         "common Hebrew"
-      ]
-   ],
-   "GIN":[
-      [
-         "The Republic of Guinea",
-         "official"
-      ]
-   ],
-   "HUN":[
-      [
-         "Republic of Hungary",
-         "official between 1946–1949 and 1989–2012"
-      ],
-      [
-         "Kingdom of Hungary",
-         "1000–1918 and 1920–1946"
-      ],
-      [
-         "Magyar Köztársaság",
-         "Hungarian for Republic of Hungary"
-      ],
-      [
-         "Magyar Népköztársaság",
-         "Hungarian for People's Republic of Hungary"
-      ],
-      [
-         "Magyar Tanácsköztársaság",
-         "Hungarian name of the first People's Republic"
-      ],
-      [
-         "Magyar Királyság",
-         "Hungarian for Kingdom of Hungary"
-      ]
-   ],
-   "ISL":[
-      [
-         "Republic of Iceland",
-         "official English description"
-      ],
-      [
-         "Lýðveldið Ísland",
-         "official Icelandic description"
-      ],
-      [
-         "Fold",
-         "poetic name"
-      ],
-      [
-         "Frón",
-         "poetic"
-      ],
-      [
-         "Ísafold",
-         "poetic"
-      ]
-   ],
-   "IND":[
-      [
-         "Bharat",
-         "official name in Hindi"
-      ],
-      [
-         "Bharat Ganarajya",
-         "official long form in Hindi"
-      ],
-      [
-         "Bharata",
-         "Kannada"
-      ],
-      [
-         "Bharatadesam",
-         "Telugu"
-      ],
-      [
-         "Republic of India",
-         "official long form in English"
-      ],
-      [
-         "Union of India",
-         "semi-official name"
-      ],
-      [
-         "Hindustan",
-         "unofficial name in Hindi/Urdu"
-      ],
-      [
-         "Al-Hind",
-         "name in Arabic/Persian/Urdu"
-      ],
-      [
-         "Bharat Prajatantra",
-         "official long form in Bengali"
-      ],
-      [
-         "Bharatavarsa",
-         "name in Sanskrit"
-      ],
-      [
-         "Hodu",
-         "name in Hebrew"
-      ],
-      [
-         "Aryavarta",
-         "obsolete name"
-      ],
-      [
-         "Jumhuriyat-e Bharat",
-         "name in Urdu."
-      ]
-   ],
-   "IDN":[
-      [
-         "Nusantara",
-         "dating back from Hindu era"
-      ],
-      [
-         "Insulinde",
-         "from the Colonial era"
-      ],
-      [
-         "Indunesia",
-         "suggestion for Dutch East Indies' modern name"
-      ]
-   ],
-   "IRN":[
-      [
-         "Islamic Republic or Iran",
-         "official"
-      ],
-      [
-         "Persia",
-         "coined by ancient Greeks"
-      ]
-   ],
-   "IRQ":[
-      [
-         "Mesopotamia",
-         "former name"
-      ],
-      [
-         "Assyria",
-         "former/historical name"
-      ],
-      [
-         "Babylon",
-         "former/historical name"
-      ]
-   ],
-   "IRL":[
-      [
-         "Irish Free State",
-         "1922–1937"
-      ],
-      [
-         "Poblacht na hÉireann",
-         "official Irish description"
-      ],
-      [
-         "Republic of Ireland",
-         "unofficial English description"
-      ],
-      [
-         "Saorstát Éireann",
-         "Irish 1922–1937"
-      ]
-   ],
-   "ISR":[
-      [
-         "State of Israel",
-         "official English name"
-      ],
-      [
-         "Zion",
-         "historical Jewish name for Jerusalem"
-      ],
-      [
-         "Yehuda",
-         "Hebrew for the ancient land of Judea"
-      ],
-      [
-         "the Jewish State",
-         "unofficial"
-      ],
-      [
-         "the Hebrew State",
-         "unofficial"
-      ],
-      [
-         "Tel Aviv regime",
-         "used in Iran's news media"
-      ]
-   ],
-   "PSE":[
-      [
-         "the Holy Land",
-         "Bible"
-      ],
-      [
-         "Eretz Yisrael",
-         "Bible"
-      ],
-      [
-         "Medinat Palestina",
-         "Hebrew name"
-      ],
-      [
-         "Dawlat Filastin",
-         "official Arabic name"
-      ],
-      [
-         "West Bank and Gaza Strip",
-         "territorial names"
-      ]
-   ],
-   "ITA":[
-      [
-         "Repubblica Italiana",
-         "official Italian name"
-      ],
-      [
-         "the Beautiful Country",
-         "nickname"
-      ],
-      [
-         "the Boot",
-         "journalistic"
-      ]
-   ],
-   "JAM":[
-      [
-         "Xamayca",
-         "Spanish version of Taino name"
-      ]
-   ],
-   "JPN":[
-      [
-         "Nippon",
-         "official name in Japanese"
-      ],
-      [
-         "Nihon",
-         "alternate"
-      ],
-      [
-         "Cipangu/Zipangu",
-         "appeared in The Travels of Marco Polo in the 13th century"
-      ],
-      [
-         "Gipangu",
-         "appeared in The Travels of Marco Polo in the 13th century"
-      ],
-      [
-         "Hinomoto",
-         "NA"
-      ]
-   ],
-   "KAZ":[
-      [
-         "Republic of Kazakhstan",
-         "English passport long name"
-      ],
-      [
-         "Qazaqstan",
-         "Kazakh short name in Latin script"
-      ]
-   ],
-   "KEN":[
-      [
-         "British East Africa Protectorate",
-         "former name 1880s until 1920"
-      ],
-      [
-         "Kenya Colony",
-         "former name 1920 until 1963"
-      ]
-   ],
-   "KOR":[
-      [
-         "Korea",
-         "conventional short form"
-      ],
-      [
-         "Korea Republic",
-         "FIFA designation"
-      ]
-   ],
-   "KGZ":[
-      [
-         "Kyrgyz Republic",
-         "official English long name"
-      ],
-      [
-         "Kyrgyz Respublikasy",
-         "Kyrgyz short name in Latin script"
-      ],
-      [
-         "Kyrgyzskaya Respublika",
-         "Russian short name in Latin script"
-      ],
-      [
-         "Kirghizia",
-         "former common English name prior to 1991"
-      ],
-      [
-         "Kirgizstan",
-         "Russian transliteration of the English name"
-      ]
-   ],
-   "LAO":[
-      [
-         "Sathalanalat Paxathipatai Paxaxôn",
-         "romanized Lao"
-      ],
-      [
-         "République démocratique populaire lao",
-         "French"
-      ]
-   ],
-   "LVA":[
-      [
-         "Letonija",
-         "Serbian"
-      ],
-      [
-         "Letonnie",
-         "French"
-      ]
-   ],
-   "MDV":[
-      [
-         "Republic of the Maldives",
-         "official"
-      ]
-   ],
-   "MEX":[
-      [
-         "Méjico",
-         "Spanish variant"
-      ],
-      [
-         "MEX",
-         "initialism"
-      ],
-      [
-         "MX",
-         "initialism"
-      ]
-   ],
-   "MDA":[
-      [
-         "Republic of Moldova",
-         "official"
-      ],
-      [
-         "Moldavia",
-         "alternative name in English"
-      ],
-      [
-         "Moldau",
-         "alternative name in German"
-      ]
-   ],
-   "MAR":[
-      [
-         "Kingdom of Morocco",
-         "official"
-      ],
-      [
-         "Maghreb",
-         "English"
-      ]
-   ],
-   "MNE":[
-      [
-         "Republic of Montenegro",
-         "official until 2007"
-      ],
-      [
-         "Republika Crna Gora",
-         "official until 2007"
-      ],
-      [
-         "Duklja",
-         "name in medieval times"
-      ],
-      [
-         "Zeta",
-         "alternative name in medieval times"
-      ],
-      [
-         "Black Mountain",
-         "literal translation into English"
-      ]
-   ],
-   "MMR":[
-      [
-         "Republic of the Union of Myanmar",
-         "official"
-      ],
-      [
-         "Burma",
-         "colloquial"
-      ]
-   ],
-   "NLD":[
-      [
-         "Pays-Bas",
-         "French"
-      ]
-   ],
-   "MKD":[
-      [
-         "Republic of North Macedonia",
-         "official"
-      ],
-      [
-         "Republic of Macedonia",
-         "former"
-      ],
-      [
-         "The former Yugoslav Republic of Macedonia",
-         "former"
-      ],
-      [
-         "Vardar Banovina",
-         "former Yugoslav province"
-      ]
-   ],
-   "PAK":[
-      [
-         "West Pakistan",
-         "common and later official name before the secession of Bangladesh"
-      ],
-      [
-         "Sindhustan and Indoscythia",
-         "unofficial historical names"
-      ]
-   ],
-   "PHL":[
-      [
-         "Filipinas",
-         "common Spanish and other local languages"
-      ],
-      [
-         "Pinás",
-         "colloquial"
-      ]
-   ],
-   "PRT":[
-      [
-         "Galaico-Portuguese nation",
-         "Celtic Gale and Roman-Celtic Portus Cale"
-      ],
-      [
-         "Portucale from the Gallaeci tribe",
-         "Celtic Gale and Roman-Celtic Portus Cale"
-      ],
-      [
-         "Galician-Portuguese",
-         "ethnic term derived from the original language"
-      ],
-      [
-         "Ophiussa",
-         "ancient Greek"
-      ],
-      [
-         "Ophiusa",
-         "ancient Greek"
-      ],
-      [
-         "Portugalensis patrie",
-         "NA"
-      ],
-      [
-         "Portugalensium patrie and Portugaliae",
-         "by King Afonso I"
-      ],
-      [
-         "Portugalliae et Algarbiae",
-         "NA"
-      ],
-      [
-         "Purtugall",
-         "Middle Ages"
-      ],
-      [
-         "Burtughal",
-         "Arabic"
-      ],
-      [
-         "Portingall",
-         "common classical English and other late medieval Germanic languages"
-      ],
-      [
-         "Portingal",
-         "common classical English and other late medieval Germanic languages"
-      ],
-      [
-         "Ocidental Praia Lusitana",
-         "Western Lusitanian Beach"
-      ],
-      [
-         "Pátria Lusitana",
-         "Lusitanian Fatherland"
-      ],
-      [
-         "Luxitania",
-         "Port of Grail in Esotericism and metaphysical literature"
-      ],
-      [
-         "Portugraal",
-         "Port of Grail in Esotericism and metaphysical literature"
-      ]
-   ],
-   "PRI":[
-      [
-         "Associated Free State of Puerto Rico",
-         "non-official literal translation to English of the official Spanish name"
-      ]
-   ],
-   "COG":[
-      [
-         "Congo Brazzaville",
-         "used in contrast to Congo Kinshasa"
-      ]
-   ],
-   "RUS":[
-      [
-         "Russian Federation",
-         "official English description"
+         "Benin",
+         "простое на английском"
       ],
       [
-         "RF",
-         "initialism"
+         "Republic of Benin",
+         "официальное на английском"
       ],
       [
-         "RSFSR",
-         "former name initialism"
+         "Респу́блика Бени́н",
+         "официальное на русском"
       ],
       [
-         "Soviet Union",
-         "former name"
+         "ベナン共和国",
+         "официальное на японском"
       ],
       [
-         "Union of Soviet Socialist Republics",
-         "official former name"
-      ],
-      [
-         "USSR",
-         "former initialism"
-      ],
-      [
-         "SSSR",
-         "former initialism"
-      ],
-      [
-         "Great Russia",
-         "obsolete name"
-      ]
-   ],
-   "RWA":[
-      [
-         "Ruanda",
-         "former colonial name"
-      ]
-   ],
-   "SAU":[
-      [
-         "KSA",
-         "initialism"
-      ],
-      [
-         "Al-Mamlaka al-Arabiyya as-Saudiyya",
-         "official name in Arabic"
-      ],
-      [
-         "Arav haSa'udit",
-         "name in Hebrew"
-      ]
-   ],
-   "SRB":[
-      [
-         "Raška",
-         "alternative name in medieval times"
-      ]
-   ],
-   "SGP":[
-      [
-         "little red dot",
-         "colloquial; originally derogatory"
-      ]
-   ],
-   "SVK":[
-      [
-         "SR",
-         "English and Slovak initialism"
-      ],
-      [
-         "SSR",
-         "English and Slovak initialism"
-      ]
-   ],
-   "SVN":[
-      [
-         "RS",
-         "English and Slovenian initialism"
-      ]
-   ],
-   "ESP":[
-      [
-         "Hispania",
-         "Latin"
-      ],
-      [
-         "Spanish State",
-         "former name"
-      ],
-      [
-         "La piel de toro",
-         "Spanish"
-      ],
-      [
-         "La pell de brau",
-         "Catalan"
-      ],
-      [
-         "Las Batuecas",
-         "derogatory name used in the works of Mariano José de Larra"
-      ]
-   ],
-   "LKA":[
-      [
-         "Taprobane",
-         "one of the medieval names of Sri Lanka"
-      ]
-   ],
-   "SDN":[
-      [
-         "The Sudan",
-         "alternate English"
-      ],
-      [
-         "Mahdist State",
-         "former English unofficial"
-      ]
-   ],
-   "SUR":[
-      [
-         "Surinam",
-         "English name until 1978"
-      ]
-   ],
-   "SWE":[
-      [
-         "Svitjod",
-         "Old Norse"
-      ]
-   ],
-   "CHE":[
-      [
-         "CH",
-         "initialism"
-      ]
-   ],
-   "TWN":[
-      [
-         "ROC",
-         "initialism"
-      ],
-      [
-         "Chinese Taipei",
-         "international designation"
-      ],
-      [
-         "Qing dynasty",
-         "former name."
-      ]
-   ],
-   "TUR":[
-      [
-         "Porte or Sublime Porte",
-         "English descriptions of the former Ottoman state"
-      ]
-   ],
-   "UKR":[
-      [
-         "UA",
-         "initialism"
-      ],
-      [
-         "UKR",
-         "initialism"
-      ],
-      [
-         "Kievan Rus",
-         "Former name for of East Slavic tribes in Europe from the late 9th to the mid-13th century"
-      ],
-      [
-         "Kingdom of Galicia–Volhynia",
-         "historic name of Western Ukraine"
-      ],
-      [
-         "Kingdom of Ruthenia",
-         "historic name of Western Ukraine"
-      ],
-      [
-         "Zaporizhian Host",
-         "is an adopted name in historiography for the Ukrainian Cossack state on the territory of Dnieper Ukraine and Siveria that existed between 1649 and 1764"
-      ]
-   ],
-   "ARE":[
-      [
-         "UAE",
-         "English initialism"
-      ],
-      [
-         "U.A.E.",
-         "English initialism"
-      ]
-   ],
-   "GBR":[
-      [
-         "Britain",
-         "alternative"
-      ],
-      [
-         "Great Britain",
-         "alternative"
-      ],
-      [
-         "UK",
-         "initialism"
-      ],
-      [
-         "U.K.",
-         "initialism"
+         "République du Bénin",
+         "официальное имя на языке страны"
       ]
    ],
-   "USA":[
-      [
-         "America",
-         "alternative"
-      ],
-      [
-         "the States",
-         "alternative"
-      ],
-      [
-         "US",
-         "initialism"
-      ],
-      [
-         "U.S.",
-         "initialism"
-      ],
-      [
-         "USA",
-         "initialism"
-      ],
-      [
-         "Usa",
-         "initialism"
-      ],
-      [
-         "U.S.A",
-         "initialism"
-      ],
-      [
-         "Freedonia",
-         "names proposed after American Revolutionary War"
-      ],
+   "BMU":[
       [
-         "Appalachia",
-         "names proposed after American Revolutionary War"
+         "Bermuda",
+         "простое на английском"
       ],
       [
-         "Alleghany",
-         "names proposed after American Revolutionary War"
+         "Bermudas",
+         "полное на английском"
       ],
       [
-         "Usonia",
-         "used by James Duff Law and popularized by Frank Lloyd Wright"
+         "Берму́дские острова́",
+         "полное на русском"
       ],
       [
-         "Usono",
-         "Esperanto; comes from Usona in English"
+         "バミューダ諸島",
+         "полное на японском"
       ]
    ],
-   "VUT":[
-      [
-         "New Hebrides",
-         "former name under British and French condominium rule from 1906 to 1980"
-      ],
+   "BTN":[
       [
-         "Niuhebridis",
-         "Bislama"
+         "Bhutan",
+         "простое на английском"
       ],
       [
-         "Nouvelles Hebrides",
-         "former official name in French"
+         "Kingdom of Bhutan",
+         "официальное на английском"
       ],
       [
-         "République de Vanuatu",
-         "French"
+         "Короле́вство Бута́н",
+         "официальное на русском"
       ],
       [
-         "Ripablik blong Vanuatu",
-         "Bislama"
+         "ブータン王国",
+         "официальное на японском"
       ],
       [
-         "Vanuatri",
-         "jocular name used in humour"
+         "འབྲུག་རྒྱལ་ཁབ",
+         "официальное имя на языке страны"
       ]
    ],
-   "VNM":[
-      [
-         "An Nam",
-         "former name in other foreign languages"
-      ],
-      [
-         "Champa",
-         "historical kingdom"
-      ],
+   "BOL":[
       [
-         "Giao Chi",
-         "former Chinese province or vassal kingdom"
+         "Bolivia",
+         "простое на английском"
       ],
       [
-         "Linh Nam",
-         "poetic name"
+         "Plurinational State of Bolivia",
+         "официальное на английском"
       ],
       [
-         "North Vietnam",
-         "Democratic Republic of Vietnam from 1954 to 1975"
+         "Многонациона́льное Госуда́рство Боли́вия",
+         "официальное на русском"
       ],
       [
-         "South Vietnam",
-         "Republic of Vietnam from 1954 to 1975"
+         "ボリビア多民族国",
+         "официальное на японском"
       ],
       [
-         "SRV",
-         "English initialism"
+         "Estado Plurinacional de Bolivia",
+         "официальное имя на языке страны - испанский"
       ],
       [
-         "S.R.V.",
-         "English initialism"
+         "Wuliwya Suyu",
+         "официальное имя на языке страны - аймара"
       ],
       [
-         "VN",
-         "English initialism"
+         "Buliwya Achka nasyunkunap Mama llaqta",
+         "официальное имя на языке страны - кечуанский / кечуа"
       ],
-      [
-         "V.N.",
-         "English initialism"
-      ]
-   ],
-   "SJM":[
       [
-         "Spitsbergen",
-         "Only populated island"
+         "Tetã Volívia",
+         "официальное имя на языке страны - гуарани"
       ],
       [
-         "Spitzbergen",
-         "German version of island name"
-      ]
-   ],
-   "FLK":[
-      [
-         "Islas Malvinas",
-         "Spanish name"
-      ]
-   ],
-   "VAT":[
-      [
-         "Vatican City",
-         "City-state name"
+         "Bolivia",
+         "простое имя на языке страны - испанский"
       ],
       [
-         "See of Rome",
-         "Alt roman name"
+         "Wuliwya",
+         "простое имя на языке страны - аймара"
       ],
       [
-         "Petrine See",
-         "Alt roman name"
+         "Buliwya",
+         "простое имя на языке страны - кечуанский / кечуа"
       ],
-      [
-         "Apostolic See",
-         "Alt roman name"
-      ]
-   ],
-   "ZWE":[
       [
-         "Rhodesia",
-         "British colony name"
+         "Volívia",
+         "простое имя на языке страны - гуарани"
       ]
    ],
    "BES":[
       [
-         "BES Islands",
-         "acronym of their names"
+         "Caribbean Netherlands",
+         "простое на английском"
       ],
       [
-         "Dutch Caribbean",
-         "nickname"
+         "Bonaire, Sint Eustatius and Saba",
+         "официальное на английском"
+      ],
+      [
+         "BES",
+         "сокращение от официального английского"
+      ],
+      [
+         "Бона́йре, Синт-Эста́тиус и Са́ба",
+         "официальное на русском"
+      ],
+      [
+         "ボネール、シント・ユースタティウスおよびサバ",
+         "официальное на японском"
+      ],
+      [
+         "Bonaire, Sint Eustatius en Saba",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BWA":[
+      [
+         "Botswana",
+         "простое на английском"
+      ],
+      [
+         "Republic of Botswana",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Ботсва́на",
+         "официальное на русском"
+      ],
+      [
+         "ボツワナ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Lefatshe la Botswana",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BRA":[
+      [
+         "Brazil",
+         "простое на английском"
+      ],
+      [
+         "Federative Republic of Brazil",
+         "официальное на английском"
+      ],
+      [
+         "Федеративная Республика Бразилия",
+         "официальное на русском"
+      ],
+      [
+         "ブラジル連邦共和国",
+         "официальное на японском"
+      ],
+      [
+         "República Federativa do Brasil",
+         "официальное имя на языке страны"
       ]
    ],
    "BRN":[
       [
+         "Brunei",
+         "простое на английском"
+      ],
+      [
          "Brunei Darussalam",
-         "Former name"
+         "официальное на английском"
+      ],
+      [
+         "Госуда́рство Бруне́й-Даруссала́м",
+         "официальное на русском"
+      ],
+      [
+         "ブルネイ・ダルサラーム国",
+         "официальное на японском"
+      ],
+      [
+         "Negara Brunei Darussalam",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BGR":[
+      [
+         "Bulgaria",
+         "простое на английском"
+      ],
+      [
+         "Republic of Bulgaria",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Болга́рия",
+         "официальное на русском"
+      ],
+      [
+         "ブルガリア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Република България",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BFA":[
+      [
+         "Burkina Faso",
+         "единственное на английском"
+      ]
+   ],
+   "BDI":[
+      [
+         "Burundi",
+         "простое на английском"
+      ],
+      [
+         "Republic of Burundi",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Буру́нди",
+         "официальное на русском"
+      ],
+      [
+         "ブルンジ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Repuburika y’Uburundi",
+         "официальное имя на языке страны - рунди"
+      ],
+      [
+         "République du Burundi",
+         "официальное имя на языке страны - французский"
+      ]
+   ],
+   "KHM":[
+      [
+         "Cambodia",
+         "простое на английском"
+      ],
+      [
+         "Kingdom of Cambodia",
+         "официальное на английском"
+      ],
+      [
+         "Короле́вство Камбо́джа",
+         "официальное на русском"
+      ],
+      [
+         " ព្រះរាជាណាចក្រកម្ពុជា",
+         "официальное на японском"
+      ],
+      [
+         "カンボジア王国",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "CMR":[
+      [
+         "Cameroon",
+         "простое на английском"
+      ],
+      [
+         "Republic of Cameroon",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Камеру́н",
+         "официальное на русском"
+      ],
+      [
+         "カメルーン共和国",
+         "официальное на японском"
+      ],
+      [
+         "République du Cameroun",
+         "официальное имя на языке страны"
       ]
    ],
    "CPV":[
       [
          "Cabo Verde",
-         "Alternative offical names"
+         "простое на английском"
+      ],
+      [
+         "Republic of Cabo Verde",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Ка́бо-Ве́рде",
+         "официальное на русском"
+      ],
+      [
+         "カーボベルデ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Cabo Verde",
+         "официальное имя на языке страны - португальский"
+      ],
+      [
+         "Repúblika di Kabu Verdi",
+         "официальное имя на языке страны - кабувердьяну"
+      ],
+      [
+         "Cabo Verde",
+         "простое имя на языке страны - португальский"
+      ],
+      [
+         "Kabu Verdi",
+         "простое имя на языке страны - кабувердьяну"
+      ]
+   ],
+   "CAF":[
+      [
+         "Central African Republic",
+         "официальное на английском"
+      ],
+      [
+         "CAR",
+         "сокращение от официального на английском"
+      ],
+      [
+         "Центральноафрика́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "中央アフリカ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republique Centrafricaine",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Ködörösêse tî Bêafrîka",
+         "официальное имя на языке страны - санго"
+      ],
+      [
+         "Centrafricaine",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Bêafrîka",
+         "простое имя на языке страны - санго"
+      ]
+   ],
+   "TCD":[
+      [
+         "Chad",
+         "простое на английском"
+      ],
+      [
+         "Republic of Chad",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Чад",
+         "официальное на русском"
+      ],
+      [
+         "チャド共和国",
+         "официальное на японском"
+      ],
+      [
+         "جمهورية تشاد",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "République du Tchad",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "تشاد",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "Tchad",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "CHL":[
+      [
+         "Сhile",
+         "простое на английском"
+      ],
+      [
+         "Republic of Chile",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Чи́ли",
+         "официальное на русском"
+      ],
+      [
+         "チリ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Chile",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "CHN":[
+      [
+         "China",
+         "простое на английском"
+      ],
+      [
+         "People's Republic of China",
+         "официальное на английском"
+      ],
+      [
+         "Кита́йская Наро́дная Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "中華人民共和国",
+         "официальное на японском"
+      ],
+      [
+         "中華人民共和國",
+         "официальное имя на языке страны - китайский традиционный"
+      ],
+      [
+         "中华人民共和国",
+         "официальное имя на языке страны - китайский упрощенный"
+      ],
+      [
+         "中國",
+         "простое имя на языке страны - китайский традиционный"
+      ],
+      [
+         "中国",
+         "простое имя на языке страны - китайский упрощенный"
+      ]
+   ],
+   "COL":[
+      [
+         "Colombia",
+         "простое на английском"
+      ],
+      [
+         "Republic of Colombia",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Колу́мбия",
+         "официальное на русском"
+      ],
+      [
+         "コロンビア共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Colombia",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "COM":[
+      [
+         "Comoros",
+         "простое на английском"
+      ],
+      [
+         "Union of the Comoros",
+         "официальное на английском"
+      ],
+      [
+         "Сою́з Комо́рских острово́в",
+         "официальное на русском"
+      ],
+      [
+         "コモロ連合",
+         "официальное на японском"
+      ],
+      [
+         "Udzima wa Komori",
+         "официальное имя на языке страны - коморский"
+      ],
+      [
+         "الإتِّحَادُ القُمُرِي",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "Union des Comores",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Komori",
+         "простое имя на языке страны - коморский"
+      ],
+      [
+         "جزر القُمُر‎",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "Comores",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "COG":[
+      [
+         "Republic of the Congo",
+         "официальное на английском"
+      ],
+      [
+         "République du Congo",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Repubilika ya Kongo",
+         "официальное имя на языке страны - конго"
+      ],
+      [
+         "Republíki ya Kongó",
+         "официальное имя на языке страны - лингала"
+      ]
+   ],
+   "COD":[
+      [
+         "Democratic Republic of the Congo",
+         "официальное на английском"
+      ],
+      [
+         "République démocratique du Congo",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Repubilika ya Kôngo ya Dimokalasi",
+         "официальное имя на языке страны - китуба"
+      ],
+      [
+         "Republíki ya Kongó Demokratíki",
+         "официальное имя на языке страны - лингала"
+      ],
+      [
+         "Jamhuri ya Kidemokrasia ya Kongo",
+         "официальное имя на языке страны - суахили"
+      ],
+      [
+         "Ditunga dia Kongu wa Mungalaata",
+         "официальное имя на языке страны - луба"
+      ]
+   ],
+   "CRI":[
+      [
+         "Costa Rica",
+         "простое на английском"
+      ],
+      [
+         "Republic of Costa Rica",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Ко́ста-Ри́ка",
+         "официальное на русском"
+      ],
+      [
+         "コスタリカ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Costa Rica",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "HRV":[
+      [
+         "Croatia",
+         "простое на английском"
+      ],
+      [
+         "Republic of Croatia",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Хорва́тия",
+         "официальное на русском"
+      ],
+      [
+         "クロアチア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republika Hrvatska",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "CUB":[
+      [
+         "Cuba",
+         "простое на английском"
+      ],
+      [
+         "Republic of Cuba",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Ку́ба",
+         "официальное на русском"
+      ],
+      [
+         "キューバ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Cuba",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "CUW":[
+      [
+         "Curaçao",
+         "простое на английском"
+      ],
+      [
+         "Country of Curaçao",
+         "официальное на английском"
+      ],
+      [
+         "Land Curaçao",
+         "официальное имя на языке страны - нидерландский / голландский"
+      ],
+      [
+         "Pais Kòrsou",
+         "официальное имя на языке страны - папьяменто"
+      ],
+      [
+         "Curaçao",
+         "простое имя на языке страны - нидерландский / голландский"
+      ],
+      [
+         "Kòrsou",
+         "простое имя на языке страны - папьяменто"
+      ]
+   ],
+   "CYP":[
+      [
+         "Cyprus",
+         "простое на английском"
+      ],
+      [
+         "Republic of Cyprus",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Кипр",
+         "официальное на русском"
+      ],
+      [
+         "キプロス共和国",
+         "официальное на японском"
+      ],
+      [
+         "Κυπριακή Δημοκρατία",
+         "официальное имя на языке страны - греческий"
+      ],
+      [
+         "Kıbrıs Cumhuriyeti",
+         "официальное имя на языке страны - турецкий"
+      ],
+      [
+         "Κύπρος",
+         "простое имя на языке страны - греческий"
+      ],
+      [
+         "Kıbrıs",
+         "простое имя на языке страны - турецкий"
+      ]
+   ],
+   "CZE":[
+      [
+         "Czechia",
+         "простое на английском"
+      ],
+      [
+         "Czech Republic",
+         "официальное на английском"
+      ],
+      [
+         "Че́шская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "チェコ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Česká republika",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "DNK":[
+      [
+         "Denmark",
+         "простое на английском"
+      ],
+      [
+         "Kingdom of Denmark",
+         "официальное на английском"
+      ],
+      [
+         "Короле́вство Да́ния",
+         "официальное на русском"
+      ],
+      [
+         "デンマーク王国",
+         "официальное на японском"
+      ],
+      [
+         "Kongeriget Danmark",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "DJI":[
+      [
+         "Djibouti",
+         "простое на английском"
+      ],
+      [
+         "Republic of Djibouti",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Джибу́ти",
+         "официальное на русском"
+      ],
+      [
+         "ジブチ共和国",
+         "официальное на японском"
+      ],
+      [
+         "جيبوتي",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "Djibouti",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "جمهورية جيبوتي",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "République de Djibouti",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "DMA":[
+      [
+         "Содру́жество Домини́ки",
+         "официальное на русском"
+      ],
+      [
+         "Commonwealth of Dominica",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "DOM":[
+      [
+         "Dominican Republic",
+         "единственное на английском"
+      ],
+      [
+         "Доминиканская Республика",
+         "официальное на русском"
+      ],
+      [
+         "República Dominicana",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ECU":[
+      [
+         "Ecuador",
+         "простое на английском"
+      ],
+      [
+         "Republic of Ecuador",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Эквадо́р",
+         "официальное на русском"
+      ],
+      [
+         "エクアドル共和国",
+         "официальное на японском"
+      ],
+      [
+         "República del Ecuador",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "EGY":[
+      [
+         "Egypt",
+         "простое на английском"
+      ],
+      [
+         "Arab Republic of Egypt",
+         "официальное на английском"
+      ],
+      [
+         "Ара́бская Респу́блика Еги́пет",
+         "официальное на русском"
+      ],
+      [
+         "エジプト・アラブ共和国",
+         "официальное на японском"
+      ],
+      [
+         "جمهورية مصر العربية",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SLV":[
+      [
+         "El Salvador",
+         "официальное на английском"
+      ],
+      [
+         "Republic of El Salvador",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Эль-Сальвадо́р",
+         "официальное на русском"
+      ],
+      [
+         "エルサルバドル共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de El Salvador",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GNQ":[
+      [
+         "Equatorial Guinea",
+         "простое на английском"
+      ],
+      [
+         "Republic of Equatorial Guinea",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Экваториа́льная Гвине́я",
+         "официальное на русском"
+      ],
+      [
+         "赤道ギニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Guinea Ecuatorial",
+         "официальное имя на языке страны - испанский"
+      ],
+      [
+         "République de la Guinée Équatoriale",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "República da Guiné Equatorial",
+         "официальное имя на языке страны - португальский"
+      ],
+      [
+         "Guinea Ecuatorial",
+         "простое имя на языке страны - испанский"
+      ],
+      [
+         "Guinée Équatoriale",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Guiné Equatorial",
+         "простое имя на языке страны - португальский"
+      ]
+   ],
+   "ERI":[
+      [
+         "Госуда́рство Эритре́я",
+         "официальное на русском"
+      ],
+      [
+         "エリトリア国",
+         "официальное на японском"
+      ],
+      [
+         "ሃገረ ኤርትራ",
+         "официальное имя на языке страны - тигринья"
+      ],
+      [
+         "دولة إرتريا",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "State of Eritrea",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "ኤርትራ",
+         "простое имя на языке страны - тигринья"
+      ],
+      [
+         "إرتريا",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "Eritrea",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "EST":[
+      [
+         "Estonia",
+         "простое на английском"
+      ],
+      [
+         "Republic of Estonia",
+         "официальное на английском"
+      ],
+      [
+         "Эсто́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "エストニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Eesti Vabariik",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ETH":[
+      [
+         "Ethiopia",
+         "простое на английском"
+      ],
+      [
+         "Federal Democratic Republic of Ethiopia",
+         "официальное на английском"
+      ],
+      [
+         "Федерати́вная Демократи́ческая Респу́блика Эфио́пия",
+         "официальное на русском"
+      ],
+      [
+         "エチオピア連邦民主共和国",
+         "официальное на японском"
+      ],
+      [
+         "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+         "официальное имя на языке страны - амхарский"
+      ],
+      [
+         "Federaalawaa Dimokraatawaa Repabliikii Itoophiyaa",
+         "официальное имя на языке страны - оромо"
+      ],
+      [
+         "ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
+         "официальное имя на языке страны - тигринья"
+      ],
+      [
+         "የኢትዮጵያ",
+         "простое имя на языке страны - амхарский"
+      ],
+      [
+         "Itoophiyaa",
+         "простое имя на языке страны - оромо"
+      ],
+      [
+         "ናይኢትዮጵያ",
+         "простое имя на языке страны - тигринья"
+      ]
+   ],
+   "FRO":[
+      [
+         "Faroes",
+         "простое на английском"
+      ],
+      [
+         "Faroe Islands",
+         "официальное на английском"
+      ],
+      [
+         "Фаре́рские острова́",
+         "официальное на русском"
+      ],
+      [
+         "Føroyar",
+         "единственное имя на языке страны - фарерский"
+      ],
+      [
+         "Færøerne",
+         "единственное имя на языке страны - датский"
+      ]
+   ],
+   "FJI":[
+      [
+         "Респу́блика Фи́джи",
+         "официальное на русском"
+      ],
+      [
+         "フィジー共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Fiji",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Matanitu Tugalala o Viti",
+         "официальное имя на языке страны - фиджийский"
+      ],
+      [
+         "Fidźi Ganaradźja / फ़िजी गणराज्य",
+         "официальное имя на языке страны - фиджийский хинди"
+      ],
+      [
+         "Fiji",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Viti",
+         "простое имя на языке страны - фиджийский"
+      ],
+      [
+         "Fidźi / फ़िजी",
+         "простое имя на языке страны - фиджийский хинди"
+      ]
+   ],
+   "FIN":[
+      [
+         "Finland",
+         "простое на английском"
+      ],
+      [
+         "Republic of Finland",
+         "официальное на английском"
+      ],
+      [
+         "Финля́ндская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "Republiken Finland",
+         "официальное на японском"
+      ],
+      [
+         "Suomen tasavalta",
+         "официальное имя на языке страны - финский"
+      ],
+      [
+         "Republiken Finland",
+         "официальное имя на языке страны - шведский"
+      ],
+      [
+         "Suomi",
+         "простое имя на языке страны - финский"
+      ],
+      [
+         "Finland",
+         "простое имя на языке страны - шведский"
+      ]
+   ],
+   "FRA":[
+      [
+         "France",
+         "простое на английском"
+      ],
+      [
+         "French Republic",
+         "официальное на английском"
+      ],
+      [
+         "Францу́зская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "フランス共和国",
+         "официальное на японском"
+      ],
+      [
+         "République française",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GUF":[
+      [
+         "French Guiana",
+         "единственное на английском"
+      ],
+      [
+         "Guyane française",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Guyane",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Lagwiyann",
+         "единственное имя на языке страны - гвианский креольский"
+      ]
+   ],
+   "PYF":[
+      [
+         "French Polynesia",
+         "единственное на английском"
+      ],
+      [
+         "Polynésie française",
+         "единственное имя на языке страны - французский"
+      ],
+      [
+         "Pōrīnetia farāni",
+         "единственное имя на языке страны - таитянский"
+      ]
+   ],
+   "ATF":[
+      [
+         "French Southern and Antarctic Lands",
+         "официальное на английском"
+      ],
+      [
+         "TAAF",
+         "сокращение от официального имени на французском"
+      ]
+   ],
+   "GAB":[
+      [
+         "Gabon",
+         "простое на английском"
+      ],
+      [
+         "Gabonese Republic",
+         "официальное на английском"
+      ],
+      [
+         "Габо́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "ガボン共和国",
+         "официальное на японском"
+      ],
+      [
+         "République gabonaise",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GMB":[
+      [
+         "Респу́блика Га́мбия",
+         "официальное на русском"
+      ],
+      [
+         "ガンビア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of The Gambia",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GEO":[
+      [
+         "Georgia",
+         "единственное на английском"
+      ],
+      [
+         "Сакартве́ло",
+         "транслитерация с грузинского"
+      ]
+   ],
+   "DEU":[
+      [
+         "Germany",
+         "простое на английском"
+      ],
+      [
+         "Federal Republic of Germany",
+         "официальное на английском"
+      ],
+      [
+         "Федерати́вная Респу́блика Герма́ния",
+         "официальное на русском"
+      ],
+      [
+         "ドイツ連邦共和国",
+         "официальное на японском"
+      ],
+      [
+         "Bundesrepublik Deutschland",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GHA":[
+      [
+         "Респу́блика Га́на",
+         "официальное на русском"
+      ],
+      [
+         "ガーナ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Ghana",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GIB":[
+      [
+         "Gibraltar",
+         "единственное имя на языке страны"
+      ]
+   ],
+   "GRC":[
+      [
+         "Greece",
+         "простое на английском"
+      ],
+      [
+         "Hellenic Republic",
+         "официальное на английском"
+      ],
+      [
+         "Гре́ческая Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "ギリシャ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Ελληνική Δημοκρατία",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GRL":[
+      [
+         "Greenland",
+         "единственное на английском"
+      ],
+      [
+         "Kalaallit Nunaat",
+         "единственное имя на языке страны - гренландский"
+      ],
+      [
+         "Grønland",
+         "единственное имя на языке страны - датский"
+      ]
+   ],
+   "GRD":[
+      [
+         "Grenada",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Gwenad",
+         "единственное имя на языке страны - гренадский франко-креольский"
+      ]
+   ],
+   "GLP":[
+      [
+         "Guadeloupe",
+         "единственное на английском"
+      ],
+      [
+         "Guadeloupe",
+         "единственное имя на языке страны - французский"
+      ],
+      [
+         "Gwadloup",
+         "единственное имя на языке страны - гваделупский (антильский) франко-креольский"
+      ]
+   ],
+   "GUM":[
+      [
+         "Guam",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Guåhan",
+         "единственное имя на языке страны - чаморро"
+      ]
+   ],
+   "GTM":[
+      [
+         "Guatemala",
+         "простое на английском"
+      ],
+      [
+         "Republic of Guatemala",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Гватема́ла",
+         "официальное на русском"
+      ],
+      [
+         "グアテマラ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Guatemala",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GGY":[
+      [
+         "Коро́нное владе́ние Ге́рнси",
+         "официальное на русском"
+      ],
+      [
+         "ガーンジー代官管轄区",
+         "официальное на японском"
+      ],
+      [
+         "Bailiwick of Guernsey",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Bailliage de Guernesey",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Guernsey",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Guernesey",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "GIN":[
+      [
+         "Guinea",
+         "простое на английском"
+      ],
+      [
+         "Republic of Guinea",
+         "официальное на английском"
+      ],
+      [
+         "Гвине́йская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "ギニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "République de Guinée",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GNB":[
+      [
+         "Guinea-Bissau",
+         "простое на английском"
+      ],
+      [
+         "Republic of Guinea-Bissau",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Гвине́я-Биса́у",
+         "официальное на русском"
+      ],
+      [
+         "ギニアビサウ共和国",
+         "официальное на японском"
+      ],
+      [
+         "República da Guiné-Bissau",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GUY":[
+      [
+         "Кооперати́вная Респу́блика Гайа́на",
+         "официальное на русском"
+      ],
+      [
+         "ガイアナ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Co-operative Republic of Guyana",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "HTI":[
+      [
+         "Haiti",
+         "простое на английском"
+      ],
+      [
+         "Republic of Haiti",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Гаи́ти",
+         "официальное на русском"
+      ],
+      [
+         "ハイチ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Repiblik Ayiti",
+         "официальное имя на языке страны - гаитянский креольский"
+      ],
+      [
+         "République d'Haïti",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Ayiti",
+         "простое имя на языке страны - гаитянский креольский"
+      ],
+      [
+         "Haïti",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "VAT":[
+      [
+         "Vatican City State",
+         "официальное на английском"
+      ],
+      [
+         "Госуда́рство-го́род Ватика́н",
+         "официальное на русском"
+      ],
+      [
+         "バチカン市国",
+         "официальное на японском"
+      ],
+      [
+         "Stato della Città del Vaticano",
+         "официальное имя на языке страны - итальянский"
+      ],
+      [
+         "Status Civitatis Vaticanæ",
+         "официальное имя на языке страны - латинский / латынь"
+      ],
+      [
+         "Vaticano",
+         "простое имя на языке страны - итальянский"
+      ],
+      [
+         "Vaticanus",
+         "простое имя на языке страны - латинский / латынь"
+      ]
+   ],
+   "HND":[
+      [
+         "Honduras",
+         "простое на английском"
+      ],
+      [
+         "Republic of Honduras",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Гондура́с",
+         "официальное на русском"
+      ],
+      [
+         "ホンジュラス共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Honduras",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "HKG":[
+      [
+         "Hong Kong",
+         "простое на английском"
+      ],
+      [
+         "Hong Kong Special Administrative Region of the People's Republic of China",
+         "официальное на английском"
+      ],
+      [
+         "Специа́льный администрати́вный райо́н Гонко́нг",
+         "официальное на русском"
+      ],
+      [
+         "中華人民共和国香港特別行政区",
+         "официальное на японском"
+      ],
+      [
+         "中華人民共和國香港特別行政區",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "HUN":[
+      [
+         "Hungary",
+         "единственное на английском"
+      ]
+   ],
+   "ISL":[
+      [
+         "Iceland",
+         "единственное на английском"
+      ]
+   ],
+   "IND":[
+      [
+         "Респу́блика И́ндия",
+         "официальное на русском"
+      ],
+      [
+         "インド共和国",
+         "официальное на японском"
+      ],
+      [
+         "भारत गणराज्य",
+         "официальное имя на языке страны - хинди"
+      ],
+      [
+         "Republic of India",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "भारत ",
+         "простое имя на языке страны - хинди"
+      ],
+      [
+         "India",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "IDN":[
+      [
+         "Indonesia",
+         "простое на английском"
+      ],
+      [
+         "Republic of Indonesia",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Индоне́зия",
+         "официальное на русском"
+      ],
+      [
+         "インドネシア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republik Indonesia",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "CIV":[
+      [
+         "Côte d'Ivoire",
+         "простое на английском"
+      ],
+      [
+         "Republic of Côte d'Ivoire",
+         "официальное на английском"
+      ],
+      [
+         "Ivory Coast",
+         "альтернативное на английском"
+      ],
+      [
+         "Респу́блика Кот-д’Ивуа́р",
+         "официальное на русском"
+      ],
+      [
+         "コートジボワール共和国",
+         "официальное на японском"
+      ],
+      [
+         "République de Côte d’Ivoire",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "IRN":[
+      [
+         "Iran",
+         "простое на английском"
+      ],
+      [
+         "Islamic Republic of Iran",
+         "официальное на английском"
+      ],
+      [
+         "Исла́мская Респу́блика Ира́н",
+         "официальное на русском"
+      ],
+      [
+         "イラン・イスラム共和国",
+         "официальное на японском"
+      ],
+      [
+         "جمهوری اسلامی ایران",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "IRQ":[
+      [
+         "Iraq",
+         "простое на английском"
+      ],
+      [
+         "Republic of Iraq",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Ира́к",
+         "официальное на русском"
+      ],
+      [
+         "イラク共和国",
+         "официальное на японском"
+      ],
+      [
+         "جُمْهُوريَّة العِرَاق",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "کۆماری عێراق",
+         "официальное имя на языке страны - курдский"
+      ],
+      [
+         "العِرَاق‎",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "عێراق",
+         "простое имя на языке страны - курдский"
+      ]
+   ],
+   "IRL":[
+      [
+         "Респу́блика Ирла́ндия",
+         "официальное на русском"
+      ],
+      [
+         "アイルランド共和国",
+         "официальное на японском"
+      ],
+      [
+         "Poblacht na hÉireann",
+         "официальное имя на языке страны - ирландский"
+      ],
+      [
+         "Republic of Ireland",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Éire",
+         "простое имя на языке страны - ирландский"
+      ],
+      [
+         "Ireland",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "IMN":[
+      [
+         "Isle of Man",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Ellan Vannin",
+         "единственное имя на языке страны - мэнский"
+      ]
+   ],
+   "ISR":[
+      [
+         "Israel",
+         "простое на английском"
+      ],
+      [
+         "State of Israel",
+         "официальное на английском"
+      ],
+      [
+         "Госуда́рство Изра́иль",
+         "официальное на русском"
+      ],
+      [
+         "イスラエル国",
+         "официальное на японском"
+      ],
+      [
+         "‏יִשְׂרָאֵל",
+         "официальное имя на языке страны - иврит"
+      ],
+      [
+         "إِسْرَائِيل‎",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "‏מְדִינַת יִשְׂרָאֵל‏‎",
+         "простое имя на языке страны - иврит"
+      ],
+      [
+         "دَوْلَة إِسْرَائِيل",
+         "простое имя на языке страны - арабский"
+      ]
+   ],
+   "ITA":[
+      [
+         "Italy",
+         "простое на английском"
+      ],
+      [
+         "Italian Republic",
+         "официальное на английском"
+      ],
+      [
+         "Италья́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "イタリア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Repubblica Italiana",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "JAM":[
+      [
+         "Jamaica",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Jumieka",
+         "единственное имя на языке страны - ямайский креольский"
+      ],
+      [
+         "Jamaica",
+         "единственное имя на языке страны - испанский"
+      ]
+   ],
+   "JPN":[
+      [
+         "Japan",
+         "единственое на английском"
+      ],
+      [
+         "Cipangu",
+         "историческое на итальянском, транслитерированное с китайского"
+      ],
+      [
+         "Госуда́рство Япо́ния",
+         "официальное на русском"
+      ],
+      [
+         "Страна́ восходя́щего со́лнца",
+         "поэтичное альтернативное имя, основанное на этимологии"
+      ],
+      [
+         "日本国",
+         "официальное имя на языке страны"
+      ],
+      [
+         "倭／倭国",
+         "историческое имя на языке страны, предположительно оскорбительное"
+      ],
+      [
+         "大／大和",
+         "историческое имя на языке страны, одно из первых имен"
+      ],
+      [
+         "大八洲",
+         "поэтичное и историческое имя на языке страны, подчеркивающее древность и величие земель страны"
+      ],
+      [
+         "扶桑",
+         "поэтичное и историческое имя на языке страны с корнями в китайской мифологии"
+      ],
+      [
+         "瑞穗",
+         "историческое имя на языке страны с корнями в японской мифологии, восхваляющее плодородие земель страны и их божественное происхождение"
+      ],
+      [
+         "秋津国／秋津島",
+         "историческое имя на языке страны с корнями в японской мифологии, подчеркивающее историческую гармонию страны с природой"
+      ],
+      [
+         "神州",
+         "историческое имя на языке страны с корнями в японской религии, подчеркивающее непобедимость страны, благодаря защите богов"
+      ]
+   ],
+   "JEY":[
+      [
+         "Коро́нное владе́ние Дже́рси",
+         "официальное на русском"
+      ],
+      [
+         "ジャージー代官管轄区",
+         "официальное на японском"
+      ],
+      [
+         "Bailiwick of Jersey",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Bailliage de Jersey",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Bailliage dé Jèrri",
+         "официальное имя на языке страны - нормандский"
+      ],
+      [
+         "Jersey",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Jersey",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Jèrri",
+         "простое имя на языке страны - нормандский"
+      ]
+   ],
+   "JOR":[
+      [
+         "Jordan",
+         "простое на английском"
+      ],
+      [
+         "Hashemite Kingdom of Jordan",
+         "официальное на английском"
+      ],
+      [
+         "Иорда́нское Хашими́тское Короле́вство",
+         "официальное на русском"
+      ],
+      [
+         "ヨルダン・ハシミテ王国",
+         "официальное на японском"
+      ],
+      [
+         "االْمَمْلَكَةُ الْأُرْدُنِيَةُ الْهَاشِمِيَة",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "KAZ":[
+      [
+         "Kazakhstan",
+         "простое на английском"
+      ],
+      [
+         "Republic of Kazakhstan",
+         "официальное на английском"
+      ],
+      [
+         "Қазақстан Республикасы / Qazaqstan Respublikasy",
+         "официальное имя на языке страны - казахский"
+      ],
+      [
+         "Респу́блика Казахста́н",
+         "официальное имя на языке страны - русский"
+      ],
+      [
+         "Қазақстан / Qazaqstan",
+         "простое имя на языке страны - казахский"
+      ],
+      [
+         "Казахста́н",
+         "простое имя на языке страны - русский"
+      ]
+   ],
+   "KEN":[
+      [
+         "Респу́блика Ке́ния",
+         "официальное на русском"
+      ],
+      [
+         "ケニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Kenya",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Jamhuri ya Kenya",
+         "официальное имя на языке страны - суахили"
+      ],
+      [
+         "Kenya",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Kenya",
+         "простое имя на языке страны - суахили"
+      ]
+   ],
+   "KIR":[
+      [
+         "Респу́блика Кириба́ти",
+         "официальное на русском"
+      ],
+      [
+         "キリバス共和国",
+         "официальное на японском"
+      ],
+      [
+         "Ribaberiki ni Kiribati",
+         "официальное имя на языке страны - кирибати"
+      ],
+      [
+         "Republic of Kiribati",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Kiribati",
+         "простое имя на языке страны - кирибати"
+      ],
+      [
+         "Kiribati",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "KWT":[
+      [
+         "Kuwait",
+         "простое на английском"
+      ],
+      [
+         "State of Kuwait",
+         "официальное на английском"
+      ],
+      [
+         "Госуда́рство Куве́йт",
+         "официальное на русском"
+      ],
+      [
+         "クウェート国",
+         "официальное на японском"
+      ],
+      [
+         "دولة الكويت",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "KGZ":[
+      [
+         "Kyrgyzstan",
+         "простое на английском"
+      ],
+      [
+         "Kyrgyz Republic",
+         "официальное на английском"
+      ],
+      [
+         "キルギス共和国",
+         "официальное на японском"
+      ],
+      [
+         "Кыргыз Республикасы",
+         "официальное имя на языке страны - киргизский"
+      ],
+      [
+         "Кыргы́зская Респу́блика",
+         "официальное имя на языке страны - русский"
+      ],
+      [
+         "Кыргызстан",
+         "простое имя на языке страны - киргизский"
+      ],
+      [
+         "Кирги́зия / Кыргызста́н",
+         "простое имя на языке страны - русский"
+      ]
+   ],
+   "LAO":[
+      [
+         "Laos",
+         "простое на английском"
+      ],
+      [
+         "Lao People's Democratic Republic",
+         "официальное на английском"
+      ],
+      [
+         "Лао́сская Наро́дно-Демократи́ческая Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "ラオス人民民主共和国",
+         "официальное на японском"
+      ],
+      [
+         "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LVA":[
+      [
+         "Latvia",
+         "простое на английском"
+      ],
+      [
+         "Republic of Latvia",
+         "официальное на английском"
+      ],
+      [
+         "Латви́йская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "ラトビア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Latvijas Republika",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LBN":[
+      [
+         "Lebanon",
+         "простое на английском"
+      ],
+      [
+         "Republic of Lebanon",
+         "официальное на английском"
+      ],
+      [
+         "Лива́нская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "レバノン共和国",
+         "официальное на японском"
+      ],
+      [
+         "الجمهورية اللبنانية",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LSO":[
+      [
+         "Короле́вство Лесо́то",
+         "официальное на русском"
+      ],
+      [
+         "レソト王国",
+         "официальное на японском"
+      ],
+      [
+         "Muso oa Lesotho",
+         "официальное имя на языке страны - южный сото"
+      ],
+      [
+         "Kingdom of Lesotho",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Lesotho",
+         "простое имя на языке страны - южный сото"
+      ],
+      [
+         "Lesotho",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "LBR":[
+      [
+         "Респу́блика Либе́рия",
+         "официальное на русском"
+      ],
+      [
+         "リベリア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Liberia",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LBY":[
+      [
+         "Libya",
+         "простое на английском"
+      ],
+      [
+         "State of Libya",
+         "официальное на английском"
+      ],
+      [
+         "Госуда́рство Ли́вия",
+         "официальное на русском"
+      ],
+      [
+         "リビア国",
+         "официальное на японском"
+      ],
+      [
+         "دولة ليبيا",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LIE":[
+      [
+         "Liechtenstein",
+         "простое на английском"
+      ],
+      [
+         "Principality of Liechtenstein",
+         "официальное на английском"
+      ],
+      [
+         "Кня́жество Лихтенште́йн",
+         "официальное на русском"
+      ],
+      [
+         "リヒテンシュタイン公国",
+         "официальное на японском"
+      ],
+      [
+         "Fürstentum Liechtenstein",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LTU":[
+      [
+         "Lithuania",
+         "простое на английском"
+      ],
+      [
+         "Republic of Lithuania",
+         "официальное на английском"
+      ],
+      [
+         "Лито́вская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "リトアニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Lietuvos Respublika",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LUX":[
+      [
+         "Luxembourg",
+         "простое на английском"
+      ],
+      [
+         "Grand Duchy of Luxembourg",
+         "официальное на английском"
+      ],
+      [
+         "Вели́кое Ге́рцогство Люксембу́рг",
+         "официальное на русском"
+      ],
+      [
+         "ルクセンブルク大公国",
+         "официальное на японском"
+      ],
+      [
+         "Groussherzogtum Lëtzebuerg",
+         "официальное имя на языке страны - люксембургский"
+      ],
+      [
+         "Grand-Duché de Luxembourg",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Großherzogtum Luxemburg",
+         "официальное имя на языке страны - немецкий"
+      ],
+      [
+         "Lëtzebuerg",
+         "простое имя на языке страны - люксембургский"
+      ],
+      [
+         "Luxembourg",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Luxemburg",
+         "простое имя на языке страны - немецкий"
       ]
    ],
    "MAC":[
       [
+         "Macau / Macao",
+         "простое на английском"
+      ],
+      [
+         "Macao Special Administrative Region of the People's Republic of China",
+         "официальное на английском"
+      ],
+      [
+         "Специа́льный администрати́вный райо́н Мака́о",
+         "официальное на русском"
+      ],
+      [
+         "中華人民共和国マカオ特別行政区",
+         "официальное на японском"
+      ],
+      [
+         "澳門特別行政區",
+         "официальное имя на языке страны - китайский традиционный"
+      ],
+      [
+         "澳门特别行政区",
+         "официальное имя на языке страны - китайский упрощенный"
+      ],
+      [
+         "Região Administrativa Especial de Macau",
+         "официальное имя на языке страны - португальский"
+      ],
+      [
+         "澳門",
+         "простое имя на языке страны - китайский традиционный"
+      ],
+      [
+         "澳门",
+         "простое имя на языке страны - китайский упрощенный"
+      ],
+      [
          "Macau",
-         "Alternative offical name"
+         "простое имя на языке страны - португальский"
+      ]
+   ],
+   "MKD":[
+      [
+         "North Macedonia",
+         "простое на английском"
+      ],
+      [
+         "Republic of North Macedonia",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Се́верная Македо́ния",
+         "официальное на русском"
+      ],
+      [
+         "北マケドニア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Република Северна Македонија",
+         "официальное имя на языке страны - македонский"
+      ],
+      [
+         "Republika e Maqedonisë së Veriut",
+         "официальное имя на языке страны - албанский"
+      ],
+      [
+         "Северна Македонија",
+         "простое имя на языке страны - македонский"
+      ],
+      [
+         "Maqedonia e Veriut",
+         "простое имя на языке страны - албанский"
+      ]
+   ],
+   "MDG":[
+      [
+         "Madagascar",
+         "простое на английском"
+      ],
+      [
+         "Republic of Madagascar",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Мадагаска́р",
+         "официальное на русском"
+      ],
+      [
+         "マダガスカル共和国",
+         "официальное на японском"
+      ],
+      [
+         "Repoblikan'i Madagasikara",
+         "официальное имя на языке страны - малагасийский"
+      ],
+      [
+         "République de Madagascar",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Madagasikara",
+         "простое имя на языке страны - малагасийский"
+      ],
+      [
+         "Madagascar",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "MWI":[
+      [
+         "Респу́блика Мала́ви",
+         "официальное на русском"
+      ],
+      [
+         "マラウイ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Malawi",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Dziko la Malaŵi",
+         "официальное имя на языке страны - ньянджа / чева"
+      ],
+      [
+         "Malawi",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Malaŵi",
+         "простое имя на языке страны - ньянджа / чева"
+      ]
+   ],
+   "MYS":[
+      [
+         "Malaysia",
+         "единственное на английском"
+      ]
+   ],
+   "MDV":[
+      [
+         "Maldives",
+         "простое на английском"
+      ],
+      [
+         "Republic of Maldives",
+         "официальное на английском"
+      ],
+      [
+         "Мальди́вская Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "モルディブ共和国",
+         "официальное на японском"
+      ],
+      [
+         "ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "MLI":[
+      [
+         "Mali",
+         "простое на английском"
+      ],
+      [
+         "Republic of Mali",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Мали́",
+         "официальное на русском"
+      ],
+      [
+         "マリ共和国",
+         "официальное на японском"
+      ],
+      [
+         "République du Mali",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Mali ka Fasojamana",
+         "официальное имя на языке страны - бамана / бамбара"
+      ],
+      [
+         "Mali",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Mali",
+         "простое имя на языке страны - бамана / бамбара"
+      ]
+   ],
+   "MLT":[
+      [
+         "Респу́блика Ма́льта",
+         "официальное на русском"
+      ],
+      [
+         "マルタ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Repubblika ta' Malta",
+         "официальное имя на языке страны - мальтийский"
+      ],
+      [
+         "Republic of Malta",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Malta",
+         "простое имя на языке страны - мальтийский"
+      ],
+      [
+         "Malta",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "MHL":[
+      [
+         "Респу́блика Марша́лловы острова́",
+         "официальное на русском"
+      ],
+      [
+         "マーシャル諸島共和国",
+         "официальное на японском"
+      ],
+      [
+         "Aolepān Aorōkin Ṃajeḷ",
+         "официальное имя на языке страны - маршалльский"
+      ],
+      [
+         "Republic of the Marshall Islands",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Ṃajeḷ",
+         "простое имя на языке страны - маршалльский"
+      ],
+      [
+         "Marshall Islands",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "MTQ":[
+      [
+         "Martinique",
+         "единственное на английском"
+      ],
+      [
+         "Martinique",
+         "единственное имя на языке страны - французский"
+      ],
+      [
+         "Matnik / Matinik",
+         "единственное имя на языке страны - мартиникский (антильский) франко-креольский"
+      ]
+   ],
+   "MRT":[
+      [
+         "Mauritania",
+         "простое на английском"
+      ],
+      [
+         "Islamic Republic of Mauritania",
+         "официальное на английском"
+      ],
+      [
+         "Исла́мская Респу́блика Маврита́ния",
+         "официальное на русском"
+      ],
+      [
+         "モーリタニア・イスラム共和国",
+         "официальное на японском"
+      ],
+      [
+         "الجمهورية الإسلامية الموريتانية",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "République Islamique de Mauritanie",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "موريتانيا‎",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "Mauritanie",
+         "простое имя на языке страны - французский"
+      ]
+   ],
+   "MUS":[
+      [
+         "Респу́блика Маври́кий",
+         "официальное на русском"
+      ],
+      [
+         "モーリシャス共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Mauritius",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "République de Maurice",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Repiblik Moris",
+         "официальное имя на языке страны - маврикийский креольский"
+      ],
+      [
+         "Mauritius",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Maurice",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Moris",
+         "официальное имя на языке страны - маврикийский креольский"
+      ]
+   ],
+   "MYT":[
+      [
+         "Mayotte",
+         "единственное на английском"
+      ],
+      [
+         "Mayotte",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Maore",
+         "официальное имя на языке страны - коморский"
+      ]
+   ],
+   "MEX":[
+      [
+         "Mexico",
+         "простое на английском"
+      ],
+      [
+         "United Mexican States",
+         "официальное на английском"
+      ],
+      [
+         "Мексика́нские Соединённые Шта́ты",
+         "официальное на русском"
+      ],
+      [
+         "メキシコ合衆国",
+         "официальное на японском"
+      ],
+      [
+         "Estados Unidos Mexicanos",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "FSM":[
+      [
+         "Федерати́вные Шта́ты Микроне́зии",
+         "официальное на русском"
+      ],
+      [
+         "ミクロネシア連邦",
+         "официальное на японском"
+      ],
+      [
+         "Federated States of Micronesia",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "MDA":[
+      [
+         "Moldova",
+         "простое на английском"
+      ],
+      [
+         "Republic of Moldova",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Молдо́ва",
+         "официальное на русском"
+      ],
+      [
+         "モルドバ共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republica Moldova",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "MCO":[
+      [
+         "Monaco",
+         "простое на английском"
+      ],
+      [
+         "Principality of Monaco",
+         "официальное на английском"
+      ],
+      [
+         "Кня́жество Мона́ко",
+         "официальное на русском"
+      ],
+      [
+         "モナコ公国",
+         "официальное на японском"
+      ],
+      [
+         "Principauté de Monaco",
+         "официальное имя на языке страны - французский"
+      ],
+      [
+         "Prinçipatu de Mu̍negu",
+         "официальное имя на языке страны - лигурский"
+      ],
+      [
+         "Monaco",
+         "простое имя на языке страны - французский"
+      ],
+      [
+         "Mu̍negu",
+         "простое имя на языке страны - лигурский"
+      ]
+   ],
+   "MNG":[
+      [
+         "モンゴル国",
+         "официальное на японском"
+      ]
+   ],
+   "MNE":[
+      [
+         "Montenegro",
+         "единственное на английском"
+      ],
+      [
+         "Црна Гора / Crna Gora",
+         "единственное имя на языке страны"
+      ]
+   ],
+   "MSR":[
+      [
+         "Montserrat",
+         "единственное имя на языке страны"
+      ]
+   ],
+   "MAR":[
+      [
+         "Morocco",
+         "простое на английском"
+      ],
+      [
+         "Kingdom of Morocco",
+         "официальное на английском"
+      ],
+      [
+         "Короле́вство Маро́кко",
+         "официальное на русском"
+      ],
+      [
+         "モロッコ王国",
+         "официальное на японском"
+      ],
+      [
+         "المملكة المغربية‎",
+         "официальное имя на языке страны - арабский"
+      ],
+      [
+         "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+         "официальное имя на языке страны - берберский"
+      ],
+      [
+         "المغرب",
+         "простое имя на языке страны - арабский"
+      ],
+      [
+         "ⵍⵎⵖⵔⵉⴱ",
+         "простое имя на языке страны - берберский"
+      ]
+   ],
+   "MOZ":[
+      [
+         "Mozambique",
+         "простое на английском"
+      ],
+      [
+         "Republic of Mozambique",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Мозамби́к",
+         "официальное на русском"
+      ],
+      [
+         "モザンビーク共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Moçambique",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "MMR":[
+      [
+         "Myanmar",
+         "простое на английском"
+      ],
+      [
+         "Republic of the Union of Myanmar",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Сою́з Мья́нма",
+         "официальное на русском"
+      ],
+      [
+         "ミャンマー連邦共和国",
+         "официальное на японском"
+      ],
+      [
+         "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "NAM":[
+      [
+         "Респу́блика Нами́бия",
+         "официальное на русском"
+      ],
+      [
+         "ナミビア共和国",
+         "официальное на японском"
+      ],
+      [
+         "Republic of Namibia",
+         "официальное имя на языке страны"
       ]
    ],
    "NRU":[
       [
-         "Plesant Island",
-         "Former name"
+         "Респу́блика Нау́ру",
+         "официальное на русском"
+      ],
+      [
+         "ナウル共和国",
+         "официальное на японском"
+      ],
+      [
+         "Ripublik Naoero",
+         "официальное имя на языке страны - науруанский"
+      ],
+      [
+         "Republic of Nauru",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Naoero",
+         "простое имя на языке страны - науруанский"
+      ],
+      [
+         "Nauru",
+         "простое имя на языке страны - английский"
+      ]
+   ],
+   "NPL":[
+      [
+         "Nepal",
+         "простое на английском"
+      ],
+      [
+         "Federal Democratic Republic of Nepal",
+         "официальное на английском"
+      ],
+      [
+         "Федерати́вная Демократи́ческая Респу́блика Непа́л",
+         "официальное на русском"
+      ],
+      [
+         "ネパール連邦民主共和国",
+         "официальное на японском"
+      ],
+      [
+         "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "NLD":[
+      [
+         "Netherlands",
+         "простое на английском"
+      ],
+      [
+         "Holland",
+         "простое, но не совсем правильное, однако часто используемое на английском"
+      ],
+      [
+         "Kingdom of the Netherlands",
+         "официальное на английском"
+      ],
+      [
+         "Голландия",
+         "простое, но не совсем правильное, однако часто используемое на русском"
+      ],
+      [
+         "Королевство Нидерландов",
+         "официальное на русском"
+      ],
+      [
+         "オランダ王国",
+         "официальное на японском"
+      ],
+      [
+         "Koninkrijk der Nederlanden",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "NCL":[
+      [
+         "New Caledonia",
+         "единственное на английском"
+      ]
+   ],
+   "NZL":[
+      [
+         "New Zealand",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Aotearoa",
+         "единственное имя на языке страны - маори / маорийский"
+      ]
+   ],
+   "NIC":[
+      [
+         "Nicaragua",
+         "простое на английском"
+      ],
+      [
+         "Republic of Nicaragua",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Никара́гуа",
+         "официальное на русском"
+      ],
+      [
+         "ニカラグア共和国",
+         "официальное на японском"
+      ],
+      [
+         "República de Nicaragua",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "NER":[
+      [
+         "Niger",
+         "простое на английском"
+      ],
+      [
+         "Republic of the Niger",
+         "официальное на английском"
+      ],
+      [
+         "Респу́блика Ни́ге́р",
+         "официальное на русском"
+      ],
+      [
+         "ニジェール共和国",
+         "официальное на японском"
+      ],
+      [
+         "République du Niger",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "NGA":[
+      [
+         "Федерати́вная Респу́блика Ниге́рия",
+         "официальное на русском"
+      ],
+      [
+         "ナイジェリア連邦共和国",
+         "официальное на японском"
+      ],
+      [
+         "Federal Republic of Nigeria",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Jamhuriyar Tarayyar Najeriya",
+         "официальное имя на языке страны - хауса"
+      ],
+      [
+         "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà",
+         "официальное имя на языке страны - йоруба"
+      ],
+      [
+         "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
+         "официальное имя на языке страны - игбо"
+      ],
+      [
+         "Nigeria",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Najeriya",
+         "простое имя на языке страны - хауса"
+      ],
+      [
+         "Nàìjíríà",
+         "простое имя на языке страны - йоруба"
+      ],
+      [
+         "Naìjíríyà",
+         "простое имя на языке страны - игбо"
+      ]
+   ],
+   "NIU":[
+      [
+         "Niue",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Niuē-fekai",
+         "единственное имя на языке страны - ниуэ"
+      ]
+   ],
+   "NFK":[
+      [
+         "Norfolk Island",
+         "единственное имя на языке страны - английский"
+      ],
+      [
+         "Norf'k Ailen",
+         "единственное имя на языке страны - норфолкский"
+      ]
+   ],
+   "PRK":[
+      [
+         "North Korea",
+         "простое на английском"
+      ],
+      [
+         "Democratic People's Republic of Korea",
+         "официальное на английском"
+      ],
+      [
+         "Коре́йская Наро́дно-Демократи́ческая Респу́блика",
+         "официальное на русском"
+      ],
+      [
+         "朝鮮民主主義人民共和国",
+         "официальное на японском"
+      ],
+      [
+         "조선민주주의인민공화국",
+         "официальное имя на языке страны - корейский, хангыль"
+      ],
+      [
+         "朝鮮民主主義人民共和國",
+         "официальное имя на языке страны - кореский, ханча"
+      ],
+      [
+         "북한",
+         "простое имя на языке страны - корейский, хангыль"
+      ],
+      [
+         "北韓",
+         "простое имя на языке страны - кореский, ханча"
+      ]
+   ],
+   "MNP":[
+      [
+         "Содру́жество Се́верных Мариа́нских Острово́в",
+         "официальное на русском"
+      ],
+      [
+         "北マリアナ諸島自治連邦区",
+         "официальное на японском"
+      ],
+      [
+         "Commonwealth of Northern Mariana Islands",
+         "официальное имя на языке страны - английский"
+      ],
+      [
+         "Sankattan Siha Na Islas Mariånas",
+         "официальное имя на языке страны - чаморро"
+      ],
+      [
+         "Commonwealth Téél Falúw kka Efáng llól Marianas",
+         "официальное имя на языке страны - каролинский"
+      ],
+      [
+         "Northern Mariana Islands",
+         "простое имя на языке страны - английский"
+      ],
+      [
+         "Notte Mariånas",
+         "простое имя на языке страны - чаморро"
+      ],
+      [
+         "Efáng llól Marianas",
+         "простое имя на языке страны - каролинский"
+      ]
+   ],
+   "NOR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "Короле́вство Норве́гия",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "OMN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PAK":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PLW":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PSE":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PAN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PNG":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PRY":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PER":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PHL":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PCN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "POL":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PRT":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "PRI":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "QAT":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "XKS":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "REU":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ROU":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "RUS":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "RWA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "BLM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SHN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "KNA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LCA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "MAF":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SPM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "VCT":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "WSM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SMR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "STP":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SAU":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SEN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SRB":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SYC":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SLE":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SGP":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SXM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SVK":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SVN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SLB":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SOM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ZAF":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SGS":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "KOR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SSD":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ESP":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "LKA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SDN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SUR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SWZ":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SWE":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "CHE":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SYR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TWN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TJK":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TZA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "THA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TLS":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TGO":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
       ]
    ],
    "TKL":[
       [
-         "Union Islands",
-         "Former name"
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TON":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TTO":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TUN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TUR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TKM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TCA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "TUV":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "UGA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "UKR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ARE":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "GBR":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "USA":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "URY":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "UZB":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "VUT":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "VEN":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "VNM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "WLF":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ESH":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "YEM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ZMB":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "ZWE":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
+      ]
+   ],
+   "SJM":[
+      [
+         "-",
+         "простое на английском"
+      ],
+      [
+         "-",
+         "официальное на английском"
+      ],
+      [
+         "-",
+         "официальное на русском"
+      ],
+      [
+         "-",
+         "официальное на японском"
+      ],
+      [
+         "-",
+         "официальное имя на языке страны"
       ]
    ]
 }
